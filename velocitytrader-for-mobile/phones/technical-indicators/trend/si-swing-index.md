@@ -1,0 +1,2 @@
+# SI (Swing index)
+

@@ -4,7 +4,7 @@ Volatility lab tab is used for graphic analysis before starting to trade options
 
 ![](<../../../../.gitbook/assets/1 (125).png>)
 
-This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
+This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 
 See the blue chart for "Volatility lab" plotted according to actual market data and the red one for Vanna-Volga implied volatilities model on the chart below:
 
@@ -25,7 +25,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
 * ATM strike – is a strike, value of which is the closest to a Current last price value;
 * ATM IV – an arithmetic mean of ATM Call and Put strikes IV;
-* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings<img src="../../../../.gitbook/assets/Screenshot_1 (14).png" alt="" data-size="original">;&#x20;
+* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings<img src="../../../../.gitbook/assets/Screenshot_1 (3).png" alt="" data-size="original">;
 * D Call IV - D Call strike IV;
 * D Put strike - is a Put strike, Delta absolute value of which is the closest to a Delta value in the settings;
 * D Put IV - D Put strike IV;
@@ -35,7 +35,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
     The calculated series are reflected on the Volatility lab chart.
 
-### &#xD;**Chart settings menu**
+### **Chart settings menu**
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
@@ -51,30 +51,30 @@ In order to hide the Chart settings menu, press the button<img src="../../../../
 
 <div align="center"><img src="../../../../.gitbook/assets/visible.png" alt=""></div>
 
-* Pressing<img src="../../../../.gitbook/assets/th (1).png" alt="" data-size="original">  allows to define graph’s thickness (from 1 to 10 px), and pressing<img src="../../../../.gitbook/assets/1y.png" alt="" data-size="original">calls the dialog window for graph’s color selection:
+* Pressing<img src="../../../../.gitbook/assets/th.png" alt="" data-size="original"> allows to define graph’s thickness (from 1 to 10 px), and pressing<img src="../../../../.gitbook/assets/1y.png" alt="" data-size="original">calls the dialog window for graph’s color selection:
 
 ![](../../../../.gitbook/assets/select.png)
 
 Marking the option<img src="../../../../.gitbook/assets/vv.png" alt="" data-size="original">as checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
 
-&#x20;This graph can also get its individual parameters via thickness and color selection (<img src="../../../../.gitbook/assets/th.png" alt="" data-size="original">,<img src="../../../../.gitbook/assets/d.png" alt="" data-size="original">).&#x20;
+This graph can also get its individual parameters via thickness and color selection (<img src="../../../../.gitbook/assets/th.png" alt="" data-size="original">,<img src="../../../../.gitbook/assets/d.png" alt="" data-size="original">).
 
 * The drop-down list of the Option series section allows selecting an appropriate series for Vanna-Volga implied volatilities model:<img src="../../../../.gitbook/assets/Screenshot_4 (3).png" alt="" data-size="original">.
 
-Be attentive to choose the same series for Vanna-Volga implied volatilities model as for “Volatility lab” graph plotted according to actual market data.
+Be attentive to choose the same series for Vanna-Volga implied volatilities model as for “Volatility lab” graph plotted according to actual market data.
 
 ### Chart scaling
 
-&#x20;The chart view can be manipulated with the buttons<img src="../../../../.gitbook/assets/Screenshot_5 (3).png" alt="" data-size="original">,&#x20;located in the buttom-right corner of the chart field:&#x20;
+The chart view can be manipulated with the buttons<img src="../../../../.gitbook/assets/Screenshot_5 (3).png" alt="" data-size="original">, located in the buttom-right corner of the chart field:
 
 * Pressing the button<img src="../../../../.gitbook/assets/Screenshot_12.png" alt="" data-size="original">allows to zoom out of any random area of the chart;
-*  Pressing the button<img src="../../../../.gitbook/assets/Screenshot_7 (1).png" alt="" data-size="original">allows to zoom in to any random area of the chart;
-*  Pressing the button<img src="../../../../.gitbook/assets/+.png" alt="" data-size="original">  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
+* Pressing the button<img src="../../../../.gitbook/assets/Screenshot_7 (1).png" alt="" data-size="original">allows to zoom in to any random area of the chart;
+* Pressing the button<img src="../../../../.gitbook/assets/+.png" alt="" data-size="original"> allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
 
 The chart view can be also manipulated with some additional options:
 
 * Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot<img src="../../../../.gitbook/assets/dd.png" alt="" data-size="original">of any chart;
-*  Clicking + holding + moving the cursor on a random area of the coordinate plane<img src="../../../../.gitbook/assets/Screenshot_14.png" alt="" data-size="original">- allows to focus the chart view on this area of the coordinate plane;
+* Clicking + holding + moving the cursor on a random area of the coordinate plane<img src="../../../../.gitbook/assets/Screenshot_14.png" alt="" data-size="original">- allows to focus the chart view on this area of the coordinate plane;
 * Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right (X) or up/down (Y) on this area on the X or Y axis;
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area:
 

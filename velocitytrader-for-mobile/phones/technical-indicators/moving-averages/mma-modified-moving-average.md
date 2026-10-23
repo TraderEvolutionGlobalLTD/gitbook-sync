@@ -1,0 +1,2 @@
+# MMA (Modified moving average)
+

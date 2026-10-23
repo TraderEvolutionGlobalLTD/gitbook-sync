@@ -1,0 +1,2 @@
+# ATR (Average true range)
+

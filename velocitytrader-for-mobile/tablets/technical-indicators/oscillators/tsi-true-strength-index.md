@@ -1,0 +1,2 @@
+# TSI (True strength index)
+

@@ -24,7 +24,7 @@
 * Notifications: access to the Notifications panel;
 * Videos: access to the Videos panel;
 * Help: redirects user to VelocityTrader Guide;
-* Settings: access to general settings of the terminal. Read more about this section here:[ https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/general-settings)
+* Settings: access to general settings of the terminal. Read more about this section here:[ https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.velocitytrader.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in/out: evokes login screen or logs user out.
 
 ### **Info bar**
@@ -35,7 +35,6 @@ It looks as the following:
 
 ![](<../../../.gitbook/assets/Screenshot_7 (2).jpg>)
 
-
 You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':<img src="../../../.gitbook/assets/2 (35).png" alt="" data-size="original">.
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
@@ -43,18 +42,15 @@ You can customize it via its context menu. To open the Info bar's context menu, 
 
 <figure><img src="../../../.gitbook/assets/info bar (2).gif" alt=""><figcaption></figcaption></figure>
 
-
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
-The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width.&#x20;
+The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width.
 
-The control<img src="../../../.gitbook/assets/4 (94).png" alt="" data-size="original">
-opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control<img src="../../../.gitbook/assets/8 (8).png" alt="" data-size="original"> opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
 ![](<../../../.gitbook/assets/5 (35).png>)
-
 
 This menu contains an account lookup for users having more than one account.
 
@@ -62,24 +58,21 @@ The following sub-groups of elements displaying account details are available he
 
 To select element(s) from the sub-group(s), check needed element(s) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –&#x20;
-  opens the Customize symbols window. The user can select symbol(s) to be displayed in the 'Info bar' here. After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments.&#x20;
+* Symbols – opens the Customize symbols window. The user can select symbol(s) to be displayed in the 'Info bar' here. After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments.
 
 {% hint style="warning" %}
-Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’.&#x20;
+Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’.
 {% endhint %}
 
 The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
 
 ![](<../../../.gitbook/assets/Screenshot_1 (4).jpg>)
 
-In the 'Info bar' near the selected symbol the user can find the Last price (the last trade price), Change (absolute price deviation from a Previous close price), and Change, % (price deviation from a Previous close price as a percentage) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value.&#x20;
+In the 'Info bar' near the selected symbol the user can find the Last price (the last trade price), Change (absolute price deviation from a Previous close price), and Change, % (price deviation from a Previous close price as a percentage) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value.
 
-*
-  Clocks – shows a list of time zones:
+* Clocks – shows a list of time zones:
 
 ![](<../../../.gitbook/assets/Screenshot_3 (16).jpg>)
-
 
 Check needed clock(s) to be displayed in the 'Info bar'. There is also the Customize item in the list of time zones. This item allows access to the full list of available time zones, in order to add the necessary ones to the Clocks list, just tick the necessary checkboxes in the ‘Use time zone’ column. At the bottom of this window there is a button that allows resetting the displayed time zones to default:
 
@@ -93,7 +86,6 @@ The following buttons allow to manage the 'Customize info bar' hierarchical tree
 
 * <img src="../../../.gitbook/assets/8 (1).png" alt="" data-size="original">– click to collapse each tree's entity;
 * <img src="../../../.gitbook/assets/9 (12).png" alt="" data-size="original">– click to expand each tree's entity.
-
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
 
@@ -134,4 +126,4 @@ Please note that after changing the time zone, the time display will immediately
 * Time & Sales – time in the ‘Time’ column;
 * Position/Working orders – time in the ‘Date/Time’ column;
 * Filled orders/Orders history – time in the ‘Date’ column for Daily and Range query;
-* High/Low list – time in the ‘Time’ column. &#x20;
+* High/Low list – time in the ‘Time’ column.

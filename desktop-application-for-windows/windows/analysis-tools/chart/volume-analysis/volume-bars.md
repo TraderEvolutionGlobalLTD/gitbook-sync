@@ -1,10 +1,10 @@
 # Volume bars
 
-This functionality allows to organize and analyze vertical volumes on the chart. Volume bars can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/65 (1).png" alt="" data-size="original">or through the Context menu -> Analysis tools -> Volume bars.​
+This functionality allows to organize and analyze vertical volumes on the chart. Volume bars can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/53.png" alt="" data-size="original"> or through the Context menu -> Analysis tools -> Volume bars.​
 
 ![](<../../../../../.gitbook/assets/volume bars.gif>)
 
-Volume bars can be set up in the following way:​
+Volume bars can be set up in the following way:​
 
 ![](../../../../../.gitbook/assets/67.png)
 
@@ -36,11 +36,11 @@ E.g., selecting " >=" and specifying the value 30 will result into displaying vo
 
 Average total size = Total volume/ Trades count, where: Trades count – total number of trades for a selected period of time;
 
-&#x20;Average buy size – shows average volume of one buy trade:
+Average buy size – shows average volume of one buy trade:
 
 Average buy size = Total buy volume/ Buy Trades count, where: Buy trades count – total number of buy trades for a selected period of time;
 
-&#x20;Average sell size – shows average volume of one sell trade:
+Average sell size – shows average volume of one sell trade:
 
 Average sell size = Total sell volume/ Sell Trades count, where: Sell trades count – total number of sell trades for a selected period of time;
 

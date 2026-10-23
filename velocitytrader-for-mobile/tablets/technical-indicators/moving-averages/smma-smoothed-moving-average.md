@@ -1,0 +1,2 @@
+# SMMA (Smoothed moving average)
+

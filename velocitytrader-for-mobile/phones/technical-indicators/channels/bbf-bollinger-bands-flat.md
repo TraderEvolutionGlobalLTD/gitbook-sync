@@ -1,0 +1,2 @@
+# BBF (Bollinger bands flat)
+

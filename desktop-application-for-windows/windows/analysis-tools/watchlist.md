@@ -1,10 +1,10 @@
 # Watchlist
 
-The Watchlist panel displays real-time market data for each symbol available through a broker.
+The Watchlist panel displays real-time market data for each symbol available through a broker.
 
 To open a Watchlist panel, select Terminal -> Watchlist.
 
-![](../../../.gitbook/assets/watchlist.png)
+![](../../../.gitbook/assets/18.png)
 
 For each symbol, the following information is available:
 
@@ -51,13 +51,13 @@ For each symbol, the following information is available:
 
 ![](../../../.gitbook/assets/comment.gif)
 
-### &#xD;**Symbols lists creation**&#x20;
+### **Symbols lists creation**
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button<img src="../../../.gitbook/assets/++ (1).png" alt="" data-size="original">,&#x20;located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.&#x20;
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button<img src="../../../.gitbook/assets/++.png" alt="" data-size="original">, located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
-![](../../../.gitbook/assets/symbol.png)
+![](../../../.gitbook/assets/21.png)
 
-### &#xD;**Customizing the Watchlist**
+### **Customizing the Watchlist**
 
 ​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
@@ -78,15 +78,13 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 
 ![](<../../../.gitbook/assets/symbol info.gif>)
 
-
-
-The panel header contains standard elements such as the ‘Close’ and ‘View more actions’ buttons. To the left of these elements, there is a control for panel linking, it is not active by default.&#x20;
+The panel header contains standard elements such as the ‘Close’ and ‘View more actions’ buttons. To the left of these elements, there is a control for panel linking, it is not active by default.
 
 When linking is enabled in the Symbol info panel, focusing on an instrument in another panel (Watchlist, Positions, Orders, etc.) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
-All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened<img src="../../../.gitbook/assets/2v.png" alt="" data-size="original">.
+All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened<img src="../../../.gitbook/assets/24.png" alt="" data-size="original">.
 
-The following information is available in each group:
+The following information is available in each group:
 
 1\) General info:
 
@@ -109,13 +107,13 @@ All information is divided into 6 groups. Each group can be hidden by one click 
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-&#x20;                \- Contract month;
+\- Contract month;
 
-&#x20;                \- Contract month, Last trade date, Settlement date, Notice date, First trade date;
+\- Contract month, Last trade date, Settlement date, Notice date, First trade date;
 
-&#x20;                \- Contract month, Last trade date, Settlement date, Notice date;
+\- Contract month, Last trade date, Settlement date, Notice date;
 
-&#x20;                \- Contract month, Last trade.
+\- Contract month, Last trade.
 
 * Delivery method – type of asset delivery. Available for Futures, Fixed income, Spot, Forward instruments. Can be only Cash for Fixed income;
 * Strike price – price level of an underlier by which Option contract must be executed;

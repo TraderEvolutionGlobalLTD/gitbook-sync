@@ -6,7 +6,7 @@ The Output tool is used to show system communication (such as errors) during com
 
 ![](<../../.gitbook/assets/1 (118).png>)
 
-### &#xD;**Watch**
+### **Watch**
 
 Watch tool is used during debugging source code.
 
@@ -14,7 +14,7 @@ To begin debugging source code, users should first set breakpoints. Then it is n
 
 ![](<../../.gitbook/assets/2 (17).png>)
 
-Select the Debug mode and run debugging by clicking on the<img src="../../.gitbook/assets/3 (107).png" alt="" data-size="original">button.
+Select the Debug mode and run debugging by clicking on the<img src="../../.gitbook/assets/1 (188).png" alt="" data-size="original">button.
 
 If using tables in the Watch tool, users can click on the ‘Full’ button to see the value of an array.
 

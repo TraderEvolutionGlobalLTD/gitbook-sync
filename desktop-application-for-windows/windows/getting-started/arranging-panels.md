@@ -1,8 +1,6 @@
 # Arranging panels
 
-
-User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button<img src="../../../.gitbook/assets/1 (164).png" alt="" data-size="original">
-at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
+User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button<img src="../../../.gitbook/assets/3 (40).png" alt="" data-size="original"> at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
 
 ### Attaching and detaching panels
 
@@ -17,7 +15,6 @@ Each panel has default location. Some panels are attached by default, others are
 
 <figure><img src="../../../.gitbook/assets/arranging panels (1).gif" alt=""><figcaption></figcaption></figure>
 
-
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 
 * Detach – allows detaching panel.VelocityTrader
@@ -27,8 +24,7 @@ Attached panels can be arranged into tabbed areas where one or more panels are c
 * Duplicate panel – allows duplicating the chosen panel.
 * Show toolbar – allows showing toolbar of the chosen panel.
 
-&#x20;Clicking on the button<img src="../../../.gitbook/assets/5 (63).png" alt="" data-size="original">
-allows opening attached panel in fullscreen mode. Available only for Chart.
+Clicking on the button<img src="../../../.gitbook/assets/5 (63).png" alt="" data-size="original"> allows opening attached panel in fullscreen mode. Available only for Chart.
 
 {% hint style="warning" %}
 Any detached panel can be closed with the "Esc" hotkey. Also, this action is valid for any other modal or pop-up screens: all sorts of Settings, Confiramtions, etc. Basically, for those screens that do not have the resizing feature.
@@ -40,13 +36,11 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 ### Linking panels
 
-
 One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available <img src="../../../.gitbook/assets/Screenshot_71.png" alt="" data-size="original">:
 
-* **Symbol link**<img src="../../../.gitbook/assets/7 (30).png" alt="" data-size="original">–&#x20;
-  when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
+* **Symbol link**<img src="../../../.gitbook/assets/7 (30).png" alt="" data-size="original">– when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
 
-<figure><img src="../../../.gitbook/assets/account linking (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/account linking.gif" alt=""><figcaption></figcaption></figure>
 
 To link two or more panels together:
 
@@ -58,11 +52,9 @@ To link two or more panels together:
 
 To unlink a panel from a group, click the panel's link icon and select 'None'.
 
-* **Account link** –&#x20;
-  linking by account is available by checking an icon<img src="../../../.gitbook/assets/Screenshot_8 (1).png" alt="" data-size="original">located at the top right corner of Accounts widget.&#x20;
+* **Account link** – linking by account is available by checking an icon<img src="../../../.gitbook/assets/Screenshot_8 (1).png" alt="" data-size="original">located at the top right corner of Accounts widget.
 
-By clicking on this icon, it turns green<img src="../../../.gitbook/assets/Screenshot_8.png" alt="" data-size="original">
-and appears in all panels which contain Account lookup. This function filters your positions and orders by account. When Account Link is checked, then changing the account is possible via Account lookup of any panel. The account will be switched synchronously in all panels.
+By clicking on this icon, it turns green<img src="../../../.gitbook/assets/Screenshot_8.png" alt="" data-size="original"> and appears in all panels which contain Account lookup. This function filters your positions and orders by account. When Account Link is checked, then changing the account is possible via Account lookup of any panel. The account will be switched synchronously in all panels.
 
 ### Searching elements
 
@@ -71,12 +63,9 @@ All table panels in the application have a quick searching function. Traders can
 * hot button combination "Ctrl + F";
 * "Search…" menu item by selecting it from the Context menu.
 
-&#x20;After evoking a search by one of the methods listed above, the following lookup will be activated<img src="../../../.gitbook/assets/11.jpg" alt="" data-size="original">,&#x20;
-where users can type symbol(s), number(s), a word or a part of it in order to find it in the table. To close the search lookup, click on the button<img src="../../../.gitbook/assets/12.jpg" alt="" data-size="original">.
+After evoking a search by one of the methods listed above, the following lookup will be activated<img src="../../../.gitbook/assets/11.jpg" alt="" data-size="original">, where users can type symbol(s), number(s), a word or a part of it in order to find it in the table. To close the search lookup, click on the button<img src="../../../.gitbook/assets/12.jpg" alt="" data-size="original">.
 
-
-Back and Forward buttons<img src="../../../.gitbook/assets/13.jpg" alt="" data-size="original">–&#x20;
-allow to move among the results of the search. Left to these buttons there are numbers showing on what search result you are now and what is the total number of search result. The search result on which you stopped moving is highlighted.
+Back and Forward buttons<img src="../../../.gitbook/assets/13.jpg" alt="" data-size="original">– allow to move among the results of the search. Left to these buttons there are numbers showing on what search result you are now and what is the total number of search result. The search result on which you stopped moving is highlighted.
 
 ![](../../../.gitbook/assets/search.gif)
 

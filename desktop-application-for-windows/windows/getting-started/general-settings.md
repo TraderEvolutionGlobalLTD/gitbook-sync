@@ -9,14 +9,14 @@ The General Settings menu is used to customize and change general properties of 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - check to display a comprehensive info bar over your Workspaces;
 * Enable sounds - check to allow sound notifications;
-* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/account-management/positions) panel;&#x20;
-* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
+* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.velocitytrader.com/project/desktop-application-for-windows/windows/account-management/positions) panel;
+* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.velocitytrader.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
 * Synchronize cursor - synchs cursor among charts;
 * Mouse wheel - select the action to be performed when scrolling the mouse wheel, it's either scrolling or zooming in and out.
 
 ### **View**
 
-![](<../../../.gitbook/assets/Screenshot_2 (15).png>)
+![](<../../../.gitbook/assets/3 (59).png>)
 
 * Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels (tick size=instrument tick size);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
@@ -49,7 +49,7 @@ The General Settings menu is used to customize and change general properties of 
 * SL validity - allows to select the default validity for Stop loss orders from the available validity values for Stop, Stop limit, and Trailing stop orders;
 * TP validity - allows to select the default validity for Take profit orders from the available validity values for Limit orders;
 * Select SL/TP validity in OE - if checked, allows to select the validity for Stop loss and Take profit orders directly in the Order Entry panel;
-* Overnight execution by default - if true, all new orders will be set for overnight execution by default (only for instruments that support overnight trading). If false, overnight execution will be disabled by default. \
+* Overnight execution by default - if true, all new orders will be set for overnight execution by default (only for instruments that support overnight trading). If false, overnight execution will be disabled by default.\
   Note this option is visible only if at least one of your accounts supports overnight trading;
 * Types manager – use to set your default parameters per order.
 
@@ -75,7 +75,6 @@ If 'Show offset in = Ticks (fractional ticks for Forex)', then options 'SL/TP de
 
 ![](../../../.gitbook/assets/Windows.jpg)
 
-
 In Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
@@ -100,11 +99,10 @@ In Confirmations section all of the options are fairly intuitive:
 * Show symbol halt warnings – if checked, you will get a warning message in case a trading halt on symbol occurs;
 * Warn if close Strategy manager with active strategies – if checked, you will get a warning message in case Strategy manager is closed with active strategies;
 * Warn when entering into leverage - if checked, user receives a warning when they begin using leverage in every order confirmation screen. Note that checkbox is available only if the related rule is active for the user's accounts on the server. Also note that the value applies to all of the user's accounts if any account has the rule active;
-* Warn if identical subsequent order is placed (sec) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period.&#x20;
+* Warn if identical subsequent order is placed (sec) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period.
 * Show overnight margin notification message – if checked, you will get a warning message in case if a position is transferred overnight.
 
 ![](../../../.gitbook/assets/10f.png)
-
 
 If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
 
@@ -118,9 +116,7 @@ If Overnight margin available < 0, user will get a message "You don’t have eno
 
 ### RSS
 
-
-Using this settVelocityTraderhe user can add or edit RSS feeds in order to view news through RSS panel.\VelocityTrader
-Read more about RSS panel here:&#x20;
+Using this settVelocityTraderhe user can add or edit RSS feeds in order to view news through RSS panel.\VelocityTrader Read more about RSS panel here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 

@@ -10,8 +10,8 @@ Right-click on any column name to select the columns, which can be displayed in 
 
 * Smbol - selected symbol;
 * Last - last price by underlier;
-* IV (Implied volatility) -  the expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected;
-* Gamma –  the second derivative of the option price by the underlier price; shows the rapidity of the option delta change;
+* IV (Implied volatility) - the expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected;
+* Gamma – the second derivative of the option price by the underlier price; shows the rapidity of the option delta change;
 * Ask - price at which a seller is willing to sell an asset.
 * Bid - price at which a buyer is willing to purchase an asset.
 * Size – the volume being offered to purchase at a specified Bid price or to Sell at a specified Ask price;
@@ -27,7 +27,7 @@ Right-click on any column name to select the columns, which can be displayed in 
 * Previous close – the previous day's close price;
 * Last time - time of the last quote update.
 
-In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
+In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
@@ -42,14 +42,14 @@ Double-click on the selected row from strike table evokes Order entry panel pre-
 Each specific strike row allows evoking its context menu with options to open the following panels in one click: Order entry, Super DOM, Market depth and Chart. Also, it is possible to add an instrument to the Watchlist from this context menu via the "Add to Watchlist" item.
 
 {% hint style="warning" %}
-![](<../../../../.gitbook/assets/image (12).png>) - Indicates that multiple option contracts with the same strike price exist within the series. When hovered, displays additional information about the strike version, including the Underlier and Version (if specified).
+![](<../../../../.gitbook/assets/image (11).png>) - Indicates that multiple option contracts with the same strike price exist within the series. When hovered, displays additional information about the strike version, including the Underlier and Version (if specified).
 {% endhint %}
 
 Use ‘Analyzer’ and ‘Volatility lab’ tabs to analyze "paper" positions before the real trading.
 
 ![](../../../../.gitbook/assets/3opt.png)
 
-**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
+**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
 
 **Orders** tab shows all orders by Options with previously selected in the Instrument lookup underlier; orders created by this underlier can be also displayed here.
 
@@ -66,7 +66,7 @@ The following buttons of the tab allow the following actions:
 * Place selected - places selected 'test on paper' orders.
 
 {% hint style="warning" %}
-If short positions are not allowed for the instrument (Options or Underlier), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity < 0, Type = Paper, based on:&#x20;
+If short positions are not allowed for the instrument (Options or Underlier), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity < 0, Type = Paper, based on:
 
 * Underlier - for orders which are created via the “Add underlier” button;
 * Options - for orders which are created by specifying Quantity with a negative sign in the “Paper position” column (in Call/Put tables), leading to the opening of a short position.
