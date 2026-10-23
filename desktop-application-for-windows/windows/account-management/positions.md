@@ -1,6 +1,6 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
+Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
 
 To open Positions panel, select Terminal -> Positions:
 
@@ -13,7 +13,9 @@ The following columns are available in the panel:
 * Symbol – a traded symbol (in case the position is opened as a result of corporate action its type is also shown here);
 
 {% hint style="warning" %}
-Please note that in this case the User cannot modify/close such position or place SL/TP orders). VelocityTrader Also note that users can disable position closing on double-click in the [General Settings](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings) panel.
+Please note that in this case the User cannot modify/close such position or place SL/TP orders).
+
+Also note that users can disable position closing on double-click in the [General Settings](../getting-started/general-settings.md) panel.
 {% endhint %}
 
 * Symbol description - comments to an instrument;
@@ -27,7 +29,7 @@ Please note that in this case the User cannot modify/close such position or plac
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* Cross price \* (Current price - Open price)
+For Long position: Gross P/L = Qty. \* Lot size \* Cross price \* (Current price - Open price)
 
 For Short position: Gross P/L = Qty. \* Lot size \* Cross price \* (Open price - Current price)
 
@@ -83,7 +85,7 @@ The totals are calculated taking into account the account currency according to 
 * If the filtered entries belong to accounts with the same currency, then the totals are displayed in the account currency.
 * If the filtered entries belong to accounts with different currencies, then the totals are displayed in the server currency.
 
-### **Buttons toolbar**
+### &#xD;**Buttons toolbar**
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
@@ -120,27 +122,27 @@ The following functions can be realized through context menu:
 *   Quick SL/TP – allows quick adding SL/TP orders to selected position;
 
     <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>These items can be disabled in case the volume of the opened position exceeds the Maximum lot set by the admin, i.e. the Max lot has been reached.</p></div>
-* Close position:
+* Close position:&#x20;
   * Close position by Mkt – allows closing selected positions by Market price;
   * Close position via OE - opens Order Entry panel to close the selected position;
 * Symbol info - opens the Symbol Info window for the instrument of the selected position;
 * Close position – allows closing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
 * Reverse – allows reversing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
 * View – allows to show total values and to show toolbar;
-* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
+* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.&#x20;
 
 After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP, Close position, Reverse.**
+Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse.**
 
 The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.\
 Also note that broker can prohibit American-style options from being exercised if the strike price is out of the money.
 
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
-After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP, Close position, Reverse** operations become allowed for the position.
+After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.  &#x20;
 
-* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type.
+* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type.&#x20;
 
 {% hint style="warning" %}
 The tab is available only when both _Intraday_ and _Delivery_ trading modes are available for the Instrument/Account pair. Also for Positions with "Net by average price" netting type. Product type modification should also be allowed for this user.
@@ -159,7 +161,7 @@ The following controls are available in this tab:
 
 When changing the Product type, all SL/TP orders will be canceled and the corresponding error will be displayed:
 
-![](<../../../.gitbook/assets/Screenshot_3 (1) (1).jpg>)
+![](<../../../.gitbook/assets/Screenshot_3 (1) (2).jpg>)
 
 If **Quantity > Maximum lot** set by the admin, the user will receive the following warning:
 
@@ -172,6 +174,8 @@ In case a commission is charged for closing a position, it will be charged for e
 ### Mutual closing
 
 The user can mutually close two positions one by another if this feature is available to him. In order to do this, the user should select two positions (with a pressed Shift button), then right-click on one of them to open the context menu and select the Mutual close option:
+
+
 
 <figure><img src="../../../.gitbook/assets/Screenshot_7 (7).jpg" alt=""><figcaption></figcaption></figure>
 

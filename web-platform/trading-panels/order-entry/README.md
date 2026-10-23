@@ -4,8 +4,7 @@ Order entry panel allows to place market or pending orders. To open the Order en
 
 <figure><img src="../../../.gitbook/assets/image (1745).png" alt=""><figcaption></figcaption></figure>
 
-
-This panel contains the following settings:
+This panel contains the following settings:
 
 * Symbol – the symbol available for the trade;
 * Side – allows to activate Buy or Sell side;
@@ -47,15 +46,14 @@ This panel contains the following settings:
 You can set up set the Stop loss and Take profit directly from the Order entry panel if needed.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1746).png" alt=""><figcaption></figcaption></figure>
-VelocityTrader
-When icon is activated by clicking on it, and checkbox 'Use stop limit instead of stop' is true (a setting located in Trading defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [General settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings).&#x20;
+
+When icon is activated by clicking on it, and checkbox 'Use stop limit instead of stop' is true (a setting located in Trading defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [General settings](../../getting-started/general-settings.md).&#x20;
 
 If the _Set SL/TP values in offset_ option is enabled in General settings, the SL/TP values will be displayed as offsets. The format of the offset display depends on the _Show offset in_ setting, which allows choosing between: Ticks, Ticks (fractional ticks for Forex), Points and Percents.
 
 If the _Set SL/TP values in offset_ option is disabled, SL/TP values will be displayed as absolute prices instead.&#x20;
 
-It is always possible to manage risks by setting Trailing stop on the order by clicking on a special<img src="../../../.gitbook/assets/3 (131).png" alt="" data-size="original">button located near Stop loss. The blue color of the<img src="../../../.gitbook/assets/4 (92).png" alt="" data-size="original">
-button indicates that the Trailing stop is activated.&#x20;
+It is always possible to manage risks by setting Trailing stop on the order by clicking on a special<img src="../../../.gitbook/assets/3 (131).png" alt="" data-size="original">button located near Stop loss. The blue color of the<img src="../../../.gitbook/assets/4 (92).png" alt="" data-size="original">button indicates that the Trailing stop is activated.&#x20;
 
 It's also possible to set the validity separately for SL/TP if the _Select SL/TP validity in OE_ parameter is activated in the General settings.
 
@@ -124,8 +122,7 @@ P/L per Tick - no information for Index;
 * Per transaction – fixed fee charged per transaction.
 * Order per lot with fixed part – fixed fee is charged for the traded volume up to a minimum threshold. If the traded quantity exceeds this volume, an additional fee is applied per each extra lot.
 
-Information of the Margin section can be updated by clicking on the button ![](<../../../.gitbook/assets/image (1450).png>)&#x20;
-at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+Information of the Margin section can be updated by clicking on the button ![](<../../../.gitbook/assets/image (1450).png>)&#x20;at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
 The "Attach" button can be found by clicking the "View more actions" button ![](<../../../.gitbook/assets/image (1451).png>) at the right side of the panel heade. It allows attaching the OE panel:&#x20;
 

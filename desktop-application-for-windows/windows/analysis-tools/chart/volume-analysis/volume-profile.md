@@ -1,8 +1,8 @@
 # Volume profile
 
-This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/53.png" alt="" data-size="original"> or through Context menu -> Analysis tools -> Volume profile.
+This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/57.png" alt="" data-size="original">or through Context menu -> Analysis tools -> Volume profile.
 
-You can select a timeperiod on the chart for plotting a Volume profile with two vertical line-indicators, which are labeled as "Volume profile".
+You can select a timeperiod on the chart for plotting a Volume profile with two vertical line-indicators, which are labeled as "Volume profile".&#x20;
 
 ![](<../../../../../.gitbook/assets/volume profile.gif>)
 
@@ -40,29 +40,29 @@ E.g., selecting " >=" and specifying the value 30 will result into displaying re
 
 Average total size = Total volume/ Trades count, where trades count – total number of trades for a specified period of time by each price level;
 
-Average buy size – shows average volume of one buy trade
+&#x20;                Average buy size – shows average volume of one buy trade
 
 Average buy size = Total buy volume/ Buy Trades count, where Buy trades count – total number of buy trades for a specified period of time by each price level;
 
-Average sell size – shows average volume of one sell trade
+&#x20;                Average sell size – shows average volume of one sell trade
 
 Average sell size = Total sell volume/ Sell Trades count, where Sell trades count – total number of sell trades for a specified period of time by each price level;
 
-Custom volume trades – this mode summarizes all trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total volume
+&#x20;               Custom volume trades – this mode summarizes all trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total volume
 
 Custom volume trades, % = Count (Total volume > Amount)/ Total trades \* 100%;
 
-Custom buy volume trades – this mode summarizes all buy trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total buy volume
+&#x20;               Custom buy volume trades – this mode summarizes all buy trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total buy volume
 
 Custom buy volume trades, % = Count (Buy volume > Amount)/ Buy trades \* 100%;
 
-Custom sell volume trades – this mode summarizes all sell trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total sell volume
+&#x20;                Custom sell volume trades – this mode summarizes all sell trades which traded with volume greater than Amount (set in settings) and shows percentage of such trades in the total sell volume
 
 Custom sell volume trades, % = Count (Sell volume > Amount)/ Sell trades \* 100%;
 
-Trades – the number of trades by each price level for a specified period of time;
+&#x20;                Trades – the number of trades by each price level for a specified period of time;
 
-Buy\&Sell volume – shows buy and sell traded volumes by each price level (defined by flag-aggressor).
+&#x20;                Buy\&Sell volume – shows buy and sell traded volumes by each price level (defined by flag-aggressor).
 
 * Amount – allows setting amount that is necessary for calculation of the Custom total/buy/sell volume trades parameters (described above);
 * Show totals – when checked, a total sum of volume profile values is displayed on the chart. It is impossible to enable this option when the Result type has one of the following values: Custom volume trades, Custom buy volume trades, Custom sell volume trades;
@@ -92,9 +92,9 @@ Please note that when setting **Keep range = True**, volume profile border lines
 
 This tool allows plotting custom volume profiles inside the selected chart area.
 
-After activating the tool, by dragging a rectangle on the chart, select the area to be analyzed. In this case, the X-axis specifies the time that falls under the analysis, and the Y-axis indicates the High/Low prices. Using this scheme, you can discard bars that are unnecessary for analysis right now, see the example below.
+After activating the tool, by dragging a rectangle on the chart, select the area to be analyzed. In this case, the X-axis specifies the time that falls under the analysis, and the Y-axis indicates the High/Low prices. Using this scheme, you can discard bars that are unnecessary for analysis right now, see the example below.&#x20;
 
-Selection of the area for analysis: pick the small "Custom option" from the list of analysis tools, it is located on the right from the main one, see screenshot below:
+Selection of the area for analysis: pick the small "Custom option" from the list of analysis tools, it is located on the right from the main one, see screenshot below:
 
 ![](<../../../../../.gitbook/assets/Volume profile.jpg>)
 
@@ -102,7 +102,7 @@ Drag the analysis rectangle over the are of interest in order to select it:
 
 ![](<../../../../../.gitbook/assets/volume profile custom (1).gif>)
 
-After the area is selected, it will be no longer highlited and will be displayed as a dotted line. So, to modify it, click on one of the Customprofile borders and the area will be available for editing again.
+After the area is selected, it will be no longer highlited and will be displayed as a dotted line. So, to modify it, click on one of the Customprofile borders and the area will be available for editing again.
 
 Right clicking one of the vertical selectors allows such options as: Settings, Remove selected, Lock location.
 
@@ -116,7 +116,7 @@ You can set up the Custom volume profile properties by selecting the Settings op
 
 ![](../../../../../.gitbook/assets/63.png)
 
-The Custom volume profile properties are similar to the main Volume profile, you can read about them above. However, this panel contains a couple of such specific options, as:
+The Custom volume profile properties are similar to the main Volume profile, you can read about them above. However, this panel contains a couple of such specific options, as:
 
 * Point of control ray – if checked, a line with maximal profile volume will be extended to the axis;
 * Synchronize with charts – if checked, a custom volume profile tool will be synchronized in all the chart panels of a selected symbol.
@@ -124,3 +124,4 @@ The Custom volume profile properties are similar to the main Volume profile, you
 Custom volume profile with the checked Point of control ray:
 
 ![](<../../../../../.gitbook/assets/Screenshot_4 (9).jpg>)
+

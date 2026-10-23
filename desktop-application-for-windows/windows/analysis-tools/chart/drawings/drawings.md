@@ -1,7 +1,6 @@
 # Drawing basics
 
-
-A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
+A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
 ![](<../../../../../.gitbook/assets/1 (2).gif>)
 
@@ -89,14 +88,12 @@ For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle,
 * Points – allows to indicate coordinates for every point which must be specified for a drawing. Coordinates indication is realized via values of the fields Time and Price:
 
 ![](<../../../../../.gitbook/assets/21 (1).png>)
-VelocityTraderVelocityTrader
-* Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type (read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
+
+* Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type (read more about aggregation types here: [Aggregation types overview](../aggregation-types-overview.md)). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
 
 ![](<../../../../../.gitbook/assets/22 (1).png>)
 
-
-Click on the button<img src="../../../../../.gitbook/assets/23 (1).png" alt="" data-size="original">
-in the column Delete to remove a visibility parameter. Clicking on the button<img src="../../../../../.gitbook/assets/24 (1).png" alt="" data-size="original">allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
+Click on the button<img src="../../../../../.gitbook/assets/23 (1).png" alt="" data-size="original">in the column Delete to remove a visibility parameter. Clicking on the button<img src="../../../../../.gitbook/assets/24 (1).png" alt="" data-size="original">allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
 
 ![](<../../../../../.gitbook/assets/Screenshot_3 (6).png>)
 

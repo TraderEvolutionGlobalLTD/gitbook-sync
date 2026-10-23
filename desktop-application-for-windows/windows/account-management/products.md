@@ -2,14 +2,14 @@
 
 The Subscriptions panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Account drop-down list that is located in the main menu of the terminal. The panel contains two tabs:
 
-* Subscriptions – this tab contains a list of Products that are available to the User for subscription, as well as Products to which the user has already subscribed i.e. those subscription requests which are confirmed by the Admin or automatically;
+* Subscriptions – this tab contains a list of Products that are available to the User for subscription, as well as Products to which the user has already subscribed i.e. those subscription requests which are confirmed by the Admin or automatically;&#x20;
 * Requests – contains subscribe/unsubscribe requests sent by the user.
 
 ### **Subscriptions tab**
 
-![](<../../../.gitbook/assets/image (975).png>)
+![](<../../../.gitbook/assets/image (985).png>)
 
-This tab displays cards of products to which the user is subscribed, as well as available to the User for subscription.
+This tab displays cards of products to which the user is subscribed, as well as available to the User for subscription.&#x20;
 
 The upper part of the panel offers the drop-down list <img src="../../../.gitbook/assets/image (989).png" alt="" data-size="line"> which allows filtering product cards currently shown in the tab. It contains the following available options:
 
@@ -20,13 +20,13 @@ The upper part of the panel offers the drop-down list <img src="../../../.gitboo
 
 All Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each category can be collapsed/expanded by pressing on it. Product cards contain the name of the Product, its logo, price, and the ‘Subscribe’ button. Note that this button can have two states depending on the product status,so it can be shown as the "Subscribed".
 
-In case the logo was not received from the server,<img src="../../../.gitbook/assets/Screenshot_6 (11).jpg" alt="" data-size="original">will be displayed instead. In the upper right corner of each Product card there is the <img src="https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t" alt="" data-size="original"> button, upon hovering on which the information about the Product is displayed:
+In case the logo was not received from the server,<img src="../../../.gitbook/assets/Screenshot_6 (11).jpg" alt="" data-size="original">will be displayed instead. In the upper right corner of each Product card there is the <img src="https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t" alt="" data-size="original"> button, upon hovering on which the information about the Product is displayed:&#x20;
 
 ![](<../../../.gitbook/assets/image (1019).png>)
 
 If the Product already has an active request awaiting processing by the admin, the button for its canceling is displayed instead of the "Subscribe/Subscribed" buttons. Hovering over the "Cancel request" button will evoke an info pop-up that contains date/time of request creation:
 
-![](<../../../.gitbook/assets/Screenshot_1 (3).jpg>)
+![](<../../../.gitbook/assets/Screenshot_1 (22).jpg>)
 
 Cards of Products, that the User has already subscribed to, have a corresponding button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product:
 
@@ -49,14 +49,14 @@ After applying the subscription, the User is shown with the following info scree
 Please note that the display of the confirmation screen is controlled in the terminal settings, namely General settings -> Confirmations -> Other section. This message will only be shown if the "Show information message..." setting is enabled.
 
 {% hint style="warning" %}
-If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging.
+If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging.&#x20;
 {% endhint %}
 
 The reject comes in the form of deal ticket and has the following view:
 
 ![](<../../../.gitbook/assets/image (1029).png>)
 
-There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them.
+There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them.&#x20;
 
 If the documents are not required to be signed, then the subscription request will be created immediately after clicking the appropriate button. This request will await verification by the admin and after its confirming the User will be subscribed to the Product.
 
@@ -85,7 +85,7 @@ After clicking the button, the User will be asked to confirm his unsubscription 
 Please note that the display of the confirmation screen is controlled in the terminal settings, namely General settings -> Confirmations -> Other section. This message will only be shown if the "Show information message..." setting is enabled.
 
 {% hint style="warning" %}
-After confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged.
+After confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged.&#x20;
 {% endhint %}
 
 If the Product already has an active request awaiting processing by the admin, the "Cancel request" button is displayed instead of the "Subscribed" button. Thus, if the request was not processed immediately, the user can always cancel it with this button.

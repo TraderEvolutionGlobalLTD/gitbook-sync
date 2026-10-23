@@ -4,7 +4,7 @@ Statistics panel is a very useful and informative tool for traders. This panel c
 
 ![](<../../.gitbook/assets/Screenshot_1 (22).png>)
 
-Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
+Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
 **Performance Data**
 
@@ -29,7 +29,7 @@ The table consists of 4 columns:
 
 Let’s consider all the tabs in details.
 
-The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together (‘Total’ tab), but they can also be viewed separately divided by operation type (‘Long’ and ‘Short’ tabs).
+The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together (‘Total’ tab), but they can also be viewed separately divided by operation type (‘Long’ and ‘Short’ tabs).&#x20;
 
 Cumulative P\L :
 
@@ -122,7 +122,7 @@ Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s ba
 
 ![](<../../.gitbook/assets/Screenshot_2 (8).png>)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the<img src="../../.gitbook/assets/7 (16).png" alt="" data-size="original">buttons to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the<img src="../../.gitbook/assets/7 (17).png" alt="" data-size="original">buttons&#x20;to select the corresponding modes.
 
 Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type (Operations, Hours, Days, etc.). Volume is displayed in lots.
 
@@ -130,15 +130,15 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ![](<../../.gitbook/assets/Screenshot_3 (1).png>)
 
-**Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
+**Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
-Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' (i.e. By hour of the day) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell.
+Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' (i.e. By hour of the day) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell.&#x20;
 
 ### **Trades Population Chart**
 
 ![](<../../.gitbook/assets/tr popul1.png>)
 
-Trades population consists of two charts:
+Trades population consists of two charts:
 
 * Pie chart, which illustrates the completed trades number for each individual symbol and shows their values in % from total trades number;
 * Profitable chart of the selected symbol, which appears when a user clicks on the sector of a pie chart.
@@ -149,4 +149,4 @@ Profitable chart displays Cumulative P/L and volumes of trades made for the sele
 
 ![](<../../.gitbook/assets/Screenshot_4 (4).png>)
 
-Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
+Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.

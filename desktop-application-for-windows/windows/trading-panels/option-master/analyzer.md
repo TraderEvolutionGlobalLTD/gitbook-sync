@@ -4,13 +4,13 @@ Analyzer tab is used for graphic analysis before starting to trade options.
 
 Analyzer tab has the general view as follows:
 
-![](<../../../../.gitbook/assets/Analyzer (1).jpg>)
+![](<../../../../.gitbook/assets/Analyzer (2).jpg>)
 
-The main purpose of this tab is to describe graphically the portfolio of positions (Test on paper tab), and also to model changing of impact factors on portfolio.
+The main purpose of this tab is to describe graphically the portfolio of positions (Test on paper tab), and also to model changing of impact factors on portfolio.
 
 ![](../../../../.gitbook/assets/calculator.png)
 
-While setting the corresponding changes of time and volatility user can model changing of portfolio cost which consists of options and underlier.
+While setting the corresponding changes of time and volatility user can model changing of portfolio cost which consists of options and underlier.
 
 * Chart type – allows setting the type of displayed information on the chart. The following types are available here: P/L, Delta, Gamma, Vega and Theta.
 * 'T +' – allows modeling changes in the numbers of days remaining until expiration of option or futures contract.

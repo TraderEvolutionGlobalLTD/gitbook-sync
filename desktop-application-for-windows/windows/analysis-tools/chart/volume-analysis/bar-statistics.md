@@ -1,6 +1,6 @@
 # Bar statistics
 
-This functionality allows aggregating information about volumes by each bar in the form of the table. Bar statistics can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/53.png" alt="" data-size="original"> or through the Context menu -> Analysis tools -> Bar statistics.
+This functionality allows aggregating information about volumes by each bar in the form of the table. Bar statistics can be opened from the Analysis tools menu by clicking on the button<img src="../../../../../.gitbook/assets/68 (1).png" alt="" data-size="original"> or through the Context menu -> Analysis tools -> Bar statistics.
 
 ![](<../../../../../.gitbook/assets/bar statistics.gif>)
 
@@ -59,3 +59,4 @@ Custom sell volume, % = Count (Sell volume > Amount)/ Sell trades \* 100%
 Amount = Custom sell amount (set in settings).
 
 * Reset to defaults – allows to reset settings to defaults.
+

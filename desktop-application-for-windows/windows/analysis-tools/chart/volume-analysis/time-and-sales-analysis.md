@@ -1,8 +1,8 @@
 # Time & Sales analysis
 
-This functionality allows analyzing tick history by each bar or by price range selected on the chart. Selected bar or price range should not exceed one day, otherwise – tick history will not be loaded.
+This functionality allows analyzing tick history by each bar or by price range selected on the chart. Selected bar or price range should not exceed one day, otherwise – tick history will not be loaded.&#x20;
 
-Time & Sales can be opened from the Analysis tools menu by clicking on the button <img src="../../../../../.gitbook/assets/53.png" alt="" data-size="original"> or through Context menu -> Analysis tools -> T\&S.
+Time & Sales can be opened from the Analysis tools menu by clicking on the button <img src="../../../../../.gitbook/assets/5 (67).png" alt="" data-size="original">or through Context menu -> Analysis tools -> T\&S.
 
 ![](../../../../../.gitbook/assets/time\&sales.gif)
 
@@ -23,7 +23,7 @@ Time & Sales functionality can be set in the following way:
 
 ![](<../../../../../.gitbook/assets/9 (10).png>)
 
-Time & Sales table chronologically shows all trades for a symbol by selected period. The following parameters are shown in the T\&S table:
+Time & Sales table chronologically shows all trades for a symbol by selected period. The following parameters are shown in the T\&S table:
 
 * Time – the time of the trade.
 * Price – the price at which the trade fills.
@@ -41,7 +41,7 @@ Please note that when setting **Keep range = True**, Time\&Sales border lines ca
 
 * Grid – allows to choose the grid type inside of T\&S table: Vertical, Horizontal, Vertical & horizontal, None.
 * Aggregation – if checked, all trades with the same price, side, size, and MPId in one row as total are shown. This is applied to the highly-liquid markets.
-* Time format – the time of the trade, can be displayed in two modes depending on the time format set in the settings: hh:flag\_mm:ss or hh:flag\_mm:ss:ms.
+* Time format – the time of the trade, can be displayed in two modes depending on the time format set in the settings: hh:mm:ss or hh:mm:ss:ms.
 * Autosize of columns – allows showing T\&S table in auto size mode.
 * Show size in – allows selecting in what form the volume will be shown. General defaults – is taken from general settings; Lots – will be displayed in lots; Real size - will be displayed in real value.
 * Round precision – if checked, user can set the precision of the volume display.

@@ -1,7 +1,6 @@
 # Alerts
 
-To open the Alerts panel, click on the ![](<../../.gitbook/assets/image (1398).png>) button which is located at the header of VelocityTrader Web platform. In order to create an alert, click on the ![](<../../.gitbook/assets/image (1399).png>)&#x20;
-button at the bottom of the panel.
+To open the Alerts panel, click on the ![](<../../.gitbook/assets/image (1398).png>) button which is located at the header of VelocityTrader Web platform. In order to create an alert, click on the ![](<../../.gitbook/assets/image (1399).png>)&#x20;button at the bottom of the panel.
 
 A user can see Bid, Ask, Last, Change% and Volume data by the symbol, selected in the symbol lookup of the panel.
 
@@ -63,12 +62,10 @@ If a user exceeds the limit of created alerts, the "Create new" button will be d
 
 ### **Alerts on chart**
 
-To create a new alert on the chart, click on the<img src="../../.gitbook/assets/7 (23).png" alt="" data-size="original">
-button which appears near the price scale at the chart while hovering the certain price level:
+To create a new alert on the chart, click on the<img src="../../.gitbook/assets/7 (23).png" alt="" data-size="original">button which appears near the price scale at the chart while hovering the certain price level:
 
 <figure><img src="../../.gitbook/assets/alerts (3).gif" alt=""><figcaption></figcaption></figure>
 
-All active alerts created by the same symbol are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit <img src="../../.gitbook/assets/9 (15).png" alt="" data-size="original"> and remove <img src="../../.gitbook/assets/10.png" alt="" data-size="original">&#x20;
-an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
+All active alerts created by the same symbol are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit <img src="../../.gitbook/assets/9 (15).png" alt="" data-size="original"> and remove <img src="../../.gitbook/assets/10.png" alt="" data-size="original">&#x20;an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
 By clicking on the Edit control, the Editing screen is opened. Editing of the alert from the chart is also possible by using the Drag\&Drop function. While using this function, the alert is modified without additional confirmations.

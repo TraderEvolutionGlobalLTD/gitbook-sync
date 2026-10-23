@@ -90,7 +90,7 @@ To select the buttons to be displayed, simply right-click on the toolbar of the 
 Clicking these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 {% endhint %}
 
-Also note that user can disable position closing on double-click in the [General settings](https://help.za.velocitytrade.com/project/web-platform/getting-started/general-settings) panel.
+Also note that user can disable position closing on double-click in the [General settings](../getting-started/general-settings.md) panel.
 
 ### **Context menu**
 

@@ -1,8 +1,10 @@
 # Orders history
 
-Orders history panel allows to view system actions related to opening and closing orders (SL/TP). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
+Orders history panel allows to view system actions related to opening and closing orders (SL/TP). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
 
 To open Orders history panel, select Terminal -> Orders history:
+
+![](../../../.gitbook/assets/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LMqLw0aSR9rZ7AJckmt%2F-LMqMWNlr1cxWmiiDxC4%2F1.png)
 
 The following columns are available in the panel:
 
@@ -82,3 +84,4 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 * Trading exchange – displays a trading exchange where the order was placed;
 * Product type – displays the product type;
 * Description – contains a short description of the instrument by which the event was executed.
+

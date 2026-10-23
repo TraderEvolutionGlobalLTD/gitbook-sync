@@ -1,12 +1,12 @@
 # Visual trading
 
-You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
+You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
 
 <figure><img src="../../../.gitbook/assets/Windows_VisualTrading.gif" alt=""><figcaption></figcaption></figure>
 
-### The built-in Order entry panel
+### &#xD;The built-in Order entry panel&#x20;
 
-In order to start visual trading, click the 'Chart trading' button<img src="../../../.gitbook/assets/83.png" alt="" data-size="original">, located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
+In order to start visual trading, click the 'Chart trading' button<img src="../../../.gitbook/assets/83.png" alt="" data-size="original">,&#x20;located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
 ![](../../../.gitbook/assets/84.png)
 
@@ -30,12 +30,12 @@ Hot buttons for one-click trading are the following:
 * Cancel sell – to cancel sell orders by selected symbol and account;
 * Cancel all – to cancel all orders by selected symbol and account.
 
-### Chart trading
+### &#xD;Chart trading
 
 To start chart trading, follow these steps:
 
 1. Оpen the built-in Order entry panel;
-2. Click on the 'Mouse trading' button<img src="../../../.gitbook/assets/85.png" alt="" data-size="original"> to enable the chart trading;
+2. Click on the 'Mouse trading' button<img src="../../../.gitbook/assets/85.png" alt="" data-size="original">   to enable the chart trading;
 3. Select type of an order to be placed: single or OCO.
 
 You can enable chart trading by pressing and holding the Ctrl key as well.
@@ -60,7 +60,7 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
 ### Order modifying
 
-To change the order’s price, simply drag and drop the order marker<img src="../../../.gitbook/assets/87.png" alt="" data-size="original"> to the desirable price.
+To change the order’s price, simply drag and drop the order marker<img src="../../../.gitbook/assets/87.png" alt="" data-size="original">to the desirable price.
 
 To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
@@ -68,23 +68,23 @@ To start modifying other parameters, left-click on the order marker. The followi
 
 To cancel order, click the <img src="../../../.gitbook/assets/89.png" alt="" data-size="original">button.
 
-Left-clicking the order qty allows to set the required number.
+Left-clicking the order qty allows to set the required number.&#x20;
 
 {% hint style="warning" %}
 Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
 
-<img src="../../../.gitbook/assets/image (818).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (886).png" alt="" data-size="original">
 {% endhint %}
 
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 
-![](../../../.gitbook/assets/90.png)
+&#x20;                                                          <img src="../../../.gitbook/assets/90.png" alt="" data-size="original">
 
 ### Stop loss and Take profit
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
-<figure><img src="../../../.gitbook/assets/image (1270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1271).png" alt=""><figcaption></figcaption></figure>
 
 ### Leverage
 

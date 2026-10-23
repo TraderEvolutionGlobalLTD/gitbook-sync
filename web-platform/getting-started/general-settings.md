@@ -1,7 +1,6 @@
 # General settings
 
-The General settings menu is used to customize and change general properties of the Web application. To open it, click on the ![](<../../.gitbook/assets/image (250).png>) button&#x20;
-at the side bar of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the ![](<../../.gitbook/assets/image (250).png>) button&#x20;at the side bar of the platform.
 
 ### **General**
 
@@ -10,9 +9,9 @@ at the side bar of the platform.
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Style - allows to select the color theme for the app;
 * Display mode - allows to select the display mode of the app;
-* Enable sounds - check to allow sound notifications;VelocityTrader
-* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.tradereVelocityTraderoject/web-platform/account-management/positions) panel;&#x20;
-* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.traderevolution.com/project/web-platform/account-management/working-orders) panel.
+* Enable sounds - check to allow sound notifications;
+* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](../account-management/positions.md) panel;&#x20;
+* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](../account-management/working-orders.md) panel.
 
 ### **View**
 
@@ -50,8 +49,7 @@ at the side bar of the platform.
 * SL validity - allows to select the default validity for Stop loss orders from the available validity values for Stop, Stop limit, and Trailing stop orders;
 * TP validity - allows to select the default validity for Take profit orders from the available validity values for Limit orders;
 * Select SL/TP validity in OE - if checked, allows to select the validity for Stop loss and Take profit orders directly in the Order Entry panel;
-* Overnight execution by default - if true, all new orders will be set for overnight execution by default (only for instruments that support overnight trading). If false, overnight execution will be disabled by default.
-  \
+* Overnight execution by default - if true, all new orders will be set for overnight execution by default (only for instruments that support overnight trading). If false, overnight execution will be disabled by default.  \
   Note this option is visible only if at least one of your accounts supports overnight trading;
 * Types manager – allows setting defaults.
 
@@ -77,8 +75,7 @@ If 'Show offset in = Ticks (fractional ticks for Forex)', then options 'SL/TP de
 
 <figure><img src="../../.gitbook/assets/image (1383).png" alt=""><figcaption></figcaption></figure>
 
-
-In the Confirmations section all of the options are fairly intuitive:
+In the Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;

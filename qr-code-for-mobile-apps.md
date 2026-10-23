@@ -1,9 +1,0 @@
-# QR code for mobile apps
-
-The QR Code icon is available in the sidebar menu. It allows users to quickly access links for downloading the mobile application by scanning the QR code with their mobile device.
-
-<figure><img src=".gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
-
-By clicking it, the following screen with links to the mobile apps will be available:
-
-<figure><img src=".gitbook/assets/image (692).png" alt=""><figcaption></figcaption></figure>

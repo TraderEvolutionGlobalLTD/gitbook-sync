@@ -1,6 +1,6 @@
 # Chart overview
 
-Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.
+Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.&#x20;
 
 This section describes the Chart panel and its functions.
 
@@ -18,7 +18,7 @@ This section describes the Chart panel and its functions.
 
 – **Date** – allows selecting the desired date from the calendar:
 
-<figure><img src="../../../.gitbook/assets/image (1417).png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1421).png" alt="" width="241"><figcaption></figcaption></figure>
 
 – **Time** – after picking a date, this tab enables precise time selection (hour and minute):
 
@@ -42,7 +42,7 @@ To zoom in and out on the Chart panel users can use the scroll button on their m
 
 <figure><img src="../../../.gitbook/assets/chartZooming.gif" alt=""><figcaption></figcaption></figure>
 
-The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, "+" and "-" buttons to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the Mouse wheel.
+The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, "+" and "-" buttons to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the Mouse wheel.&#x20;
 
 {% hint style="warning" %}
 Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.

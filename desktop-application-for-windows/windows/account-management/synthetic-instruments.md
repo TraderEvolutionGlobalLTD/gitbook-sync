@@ -12,9 +12,9 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](<../../../.gitbook/assets/1 (52).png>)
 
-New Synthetic instruments can now be created. Click on the<img src="../../../.gitbook/assets/2 (121).png" alt="" data-size="original">button.
+New Synthetic instruments can now be created. Click on the<img src="../../../.gitbook/assets/2 (170).png" alt="" data-size="original">button.
 
-Double click on SYNTHETIC0 to change the name.
+Double click on SYNTHETIC0 to change the name.
 
 ### How to add Synthetic instruments?
 
@@ -24,11 +24,11 @@ Double click on SYNTHETIC0 to change the name.
 
 ![](../../../.gitbook/assets/synthetic.gif)
 
-2\) Click on the<img src="../../../.gitbook/assets/2 (121).png" alt="" data-size="original">button and select the option how to add the synthetic instrument.
+2\) Click on the<img src="../../../.gitbook/assets/2 (121).png" alt="" data-size="original">button&#x20;and select the option how to add the synthetic instrument.
 
 ![](<../../../.gitbook/assets/5 (66).png>)
 
-* From lookup – the symbol can be selected from the lookup;
+* From lookup – the symbol can be selected from the lookup;&#x20;
 * From lists of symbols – symbols can be added from previously created lists in the panel Watchlist.
 
 3\) Next edit the coefficient of the symbol in the Coefficient column. Click on coefficient to change it. If the coefficient is a positive value, the symbol will be bought when the synthetic instrument is traded. Likewise, if the coefficient is a negative value, the symbol will be sold.
@@ -38,3 +38,4 @@ To delete symbol, simply right click on it and select Remove symbol or click the
 When created, the Synthetic instruments will be available in the list of symbols and can be utilized similar to any other symbol. Synthetic instruments can be added to a Chart and traded in Order entry.
 
 ![](<../../../.gitbook/assets/6 (54).png>)
+

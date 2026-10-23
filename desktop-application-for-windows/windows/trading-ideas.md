@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/Ideas.gif)
+![](<../../.gitbook/assets/Ideas (1).gif>)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -34,32 +34,32 @@ If there is only one product type available to the User subscriber and it differ
 * TP offset – field that shows the TP offset value;
 * Current price – field that shows the current symbol price (if available);
 * Expiration date – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. The expiration date is set in the corresponding calendar control:\
-  <img src="../../.gitbook/assets/calendar-en.png" alt="" data-size="original">\
+  &#x20;<img src="../../.gitbook/assets/calendar-en (1).png" alt="" data-size="original"> \
   Format: “dd.mm.yyyy hh:mm” (day.month.year hours:minutes). (min = 00 hours : 01 minutes; max = 30 days 24 hours : 00 minutes);
 * Title – allows entering a title of the Idea. The title cannot contain more than 50 symbols.
 
 The following options are not mandatory:
 
-* Description – allows entering a description of the Idea;
-* Add chart screen – allows attaching a Chart snapshot to the Idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The<img src="../../.gitbook/assets/7 (9).png" alt="" data-size="original"> button allows opening the full-size screenshot.
+* Description – allows entering a description of the Idea;&#x20;
+* Add chart screen – allows attaching a Chart snapshot to the Idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The<img src="../../.gitbook/assets/7 (9).png" alt="" data-size="original">  button allows opening the full-size screenshot.
 
 After specifying all the parameters of the Idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Idea sending, the user gets a notification:
 
 ![](<../../.gitbook/assets/sent successfully new.png>)
 
-**Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
+**Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
 
-![](<../../.gitbook/assets/1 (187).png>)
+![](<../../.gitbook/assets/Sent NEW.png>)
 
-The sent Idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
+The sent Idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 
-Click on the certain Idea to open it. If a user attaches a chart screenshot, it will be displayed in the Idea. Press the screenshot to open it in the full-size mode. In the ‘Chart’ tab user can choose the desired timeframe.
+Click on the certain Idea to open it. If a user attaches a chart screenshot, it will be displayed in the Idea. Press the screenshot to open it in the full-size mode. In the ‘Chart’ tab user can choose the desired timeframe.
 
 After expiration of the Idea, it will be removed from the panel. In order to delete the Idea, click on the 'Delete' button located next to its lifetime.
 
-![](<../../.gitbook/assets/1 (174).png>)
+![](../../.gitbook/assets/lifetime-delete.png)
 
-### **User-subscriber**
+### **User-subscriber**&#x20;
 
 User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf68aomN_A3nX0JfZpvfk6ARiDsPWSJMj_zhAELYrZySKa6gW3lReN2Fz4qG8OMXd2VV_MmUchLWpSv5hGiaH7wqNrsj7a35-rffCHi_9UlVLeoOTVPQw-HvE1c-ZQINJ1xzNpLNjoJUM_cP5p82QsZK0mN?key=i34kSG4duM_DXcQbimGXZQ) button in the sidebar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
@@ -67,13 +67,13 @@ To receive an Idea and place the order based on this idea, the instrument used i
 
 ![](<../../.gitbook/assets/idea notification.png>)
 
-A user-subscriber can see the sent Ideas in the panel:
+A user-subscriber can see the sent Ideas in the panel:
 
-![](../../.gitbook/assets/Ideas2.gif)
+![](<../../.gitbook/assets/Ideas2 (1).gif>)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price, and Stop loss values of the Idea, view the Chart snapshot (if added), and place an order based on the idea. The user-subscriber can select or enter the quantity for the Idea order using the Quantity drop-down list or, if available, switch to Cash mode to specify the order amount in currency. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 
-![](<../../.gitbook/assets/6 (24).png>)
+![](<../../.gitbook/assets/6 (25).png>)
 
 Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
 
@@ -81,7 +81,7 @@ Click on the ‘Yes’ button to place an order based on the Idea. After the ord
 
 When creating an Idea, a User-analyst can attach a snapshot of a Chart of the Instrument used in the Idea and a jpeg, jpg, png or PDF file (10 Mb or smaller) containing relevant information by clicking the icons under the Lifetime setting field of the Idea creation menu:
 
-![](<../../.gitbook/assets/1 (201).png>)
+![](../../.gitbook/assets/attachments.png)
 
 Clicking the chart symbol icon <img src="../../.gitbook/assets/attachment6.png" alt="" data-size="original"> (on the left) opens the Chart window for taking a snapshot, in which the User-analyst can select the needed Instrument and configure the Chart parameters:
 
@@ -89,17 +89,17 @@ Clicking the chart symbol icon <img src="../../.gitbook/assets/attachment6.png" 
 
 Having configured the Chart, the User can take the snapshot by clicking the "Take snapshot" button in the right lower corner. After the Chart snapshot is taken, it can be saved and automatically attached to the Idea by clickign the symbol in the right lower corner of the menu window:
 
-![](<../../.gitbook/assets/image (787).png>)
+![](<../../.gitbook/assets/image (1024).png>)
 
 Clicking the <img src="../../.gitbook/assets/attachment7.png" alt="" data-size="original"> symbol in the main Idea creation menu opens the explorer window for browsing to a jpeg, jpg, png or PDF file, which the User-analyst chooses to attach to the Idea.
 
 After the Chart snapshot and file are attached to the Idea, their symbols become highlighted:
 
-![](<../../.gitbook/assets/1 (155).png>)
+![](<../../.gitbook/assets/attachments activated.png>)
 
 The User-analyst can remove a snapshot or an attached file by clicking the cross icon near the corresponding symbol.
 
-After an Idea is sent, the User-subscriber can open the Idea expanded view and open the attached file or snapshot by clicking the corresponding icon in the menu:
+After an Idea is sent, the User-subscriber can open the Idea expanded view and open the attached file or snapshot by clicking the corresponding icon in the menu:  &#x20;
 
 ![](<../../.gitbook/assets/image (813).png>)
 

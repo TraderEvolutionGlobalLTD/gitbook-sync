@@ -6,7 +6,7 @@ To open a new Option master panel go to Terminal - > Option master.
 
 ![](<../../../../.gitbook/assets/Option master. Overview.jpg>)
 
-**Level 1 symbol data:**
+**Level 1 symbol data:**
 
 Level 1 data information of the symbol that underlies the option contract was gathered in this block. This block can be easily customized through the Context menu.
 
@@ -16,13 +16,13 @@ Here user can select an instrument that underlies the option which user is going
 
 **Settings:**
 
-Clicking on the button<img src="../../../../.gitbook/assets/Screenshot_1 (3).png" alt="" data-size="original"> calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
+Clicking on the button<img src="../../../../.gitbook/assets/Screenshot_1 (3).png" alt="" data-size="original">calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
 
 **General:**
 
 ![](<../../../../.gitbook/assets/general opt m.png>)
 
-The section General has the following options:
+The section General has the following options:
 
 * Pricing model – shows a price model, which will be used for calculation (currently Black-Sholes model is only available).
 * Interest rate, % – allows selecting interest rate.
@@ -40,17 +40,17 @@ The section General has the following options:
 
 If coloring method is Classic, the following options can be selected:
 
-In-the-money color – allows selecting 'In the money' color.
+&#x20;        In-the-money color – allows selecting 'In the money' color.
 
-Out-the-money-color – allows selecting 'Out the money' color.
+&#x20;        Out-the-money-color – allows selecting 'Out the money' color.
 
 ![](<../../../../.gitbook/assets/histor volat.png>)
 
-If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier (Min = 0, Max = 1000, Step = 0.1). Pressing the button<img src="../../../../.gitbook/assets/Screenshot_2 (7).png" alt="" data-size="original"> allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type (described below).
+If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier (Min = 0, Max = 1000, Step = 0.1). Pressing the button<img src="../../../../.gitbook/assets/Screenshot_2 (17).png" alt="" data-size="original">allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type (described below).
 
-Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, (Bid + Ask)/2, OHLC/4 and OHL/3.
+&#x20;       Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, (Bid + Ask)/2, OHLC/4 and OHL/3.
 
-ATM strike color, Std. color, 2\* Std. color – standard setting for color selection.
+&#x20;       ATM strike color, Std. color, 2\* Std. color – standard setting for color selection.
 
 **Coloring logic**
 
@@ -74,7 +74,7 @@ occurs over 2\*Std.coloring.
 
 ![](<../../../../.gitbook/assets/Screenshot_3 (11).png>)
 
-This tab allows specifying colors and style for displaying the main lines of the option position profile:
+This tab allows specifying colors and style for displaying the main lines of the option position profile:
 
 * Intrinsic – color, shape and thickness of the option intrinsic value line;
 * Time line - color, shape and thickness of the option time line;
@@ -90,7 +90,7 @@ Probability simulations:
 
 View:
 
-Coloring method – allows selecting coloring scheme for Analyzer tab: Historical volatility or None. Current HV, % – shows current level of the historical volatility for the underlier (Min = 0, Max = 1000, Step = 0.1). Pressing the button<img src="../../../../.gitbook/assets/Screenshot_2 (7).png" alt="" data-size="original"> allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type (described below).
+Coloring method – allows selecting coloring scheme for Analyzer tab: Historical volatility or None. Current HV, % – shows current level of the historical volatility for the underlier (Min = 0, Max = 1000, Step = 0.1). Pressing the button<img src="../../../../.gitbook/assets/Screenshot_2 (7).png" alt="" data-size="original">allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type (described below).
 
 Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, (Bid + Ask)/2, OHLC/4 and OHL/3.
 
@@ -98,9 +98,9 @@ Standard deviation color, 2 Standard deviation color – standard setting for co
 
 **Volatility lab:**
 
-![](<../../../../.gitbook/assets/volat lab.png>)
+![](<../../../../.gitbook/assets/volat lab (1).png>)
 
-The section Volatility lab allows to set up parameters of the Volatility lab tab of the Option master panel.
+The section Volatility lab allows to set up parameters of the Volatility lab tab of the Option master panel.
 
 This section contains the following options:
 
@@ -126,7 +126,7 @@ The following options also can be set up:
 
 ![](../../../../.gitbook/assets/visibil.png)
 
-Visibility:
+Visibility:
 
 Info Window Mode – allows selecting Separate Window, Attached to Cursor or Hidden from the drop-down list.
 
@@ -142,7 +142,7 @@ The style of a font can be selected.
 
 **Positions/Orders information:** this block shows all information about positions, orders and 'test on paper' results.
 
-**Panel navigation:** use this block in order to manage tabs of Option master panel.
+**Panel navigation:** use this block in order to manage tabs of Option master panel.&#x20;
 
 **Info panel:** click on the button<img src="../../../../.gitbook/assets/info panel.png" alt="" data-size="original">to enable/disable the information panel displaying.
 

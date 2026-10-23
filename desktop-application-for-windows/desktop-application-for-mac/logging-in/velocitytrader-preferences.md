@@ -1,7 +1,6 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button<img src="../../../.gitbook/assets/1 (101).png" alt="" data-size="original">located&#x20;
-at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button<img src="../../../.gitbook/assets/1 (101).png" alt="" data-size="original">located&#x20;at the Top menu of the platform.
 
 This menu contains such sections as:
 
@@ -24,8 +23,8 @@ This menu contains such sections as:
 ### **Hotkeys:**
 
 ![](<../../../.gitbook/assets/Screenshot_3 (20).jpg>)
-VelocityTraderVelocityTrader
-The full information about Hotkeys preferences is represented in the article below: [https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/hotkeys](https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/hotkeys)
+
+The full information about Hotkeys preferences is represented in the article below: [Hotkeys](hotkeys.md)
 
 ### &#xD;**Trading defaults:**
 

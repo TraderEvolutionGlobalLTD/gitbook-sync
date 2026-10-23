@@ -4,7 +4,7 @@ Order entry panel allows to place market or pending orders. To open the Order en
 
 <figure><img src="../../../../.gitbook/assets/image (1749).png" alt=""><figcaption></figcaption></figure>
 
-This panel contains the following settings:
+This panel contains the following settings:
 
 * Account - the account used for an order creation;
 * PoA - the list, which allows selecting among Power of attorney persons that can trade on behalf of the the account owner;
@@ -31,13 +31,13 @@ Please note that calculated Est. Quantity value is rounded down to the nearest m
 
 1. Market order is an order to buy or sell a security at the best available price immediately;
 2. Limit order is placed to buy or sell a security at specified price or better;
-3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit. The<img src="../../../../.gitbook/assets/info (1).png" alt="" data-size="original">icon informs a user that additional Limit price is available if the checkbox 'Use stop limit instead of stop' is active in General settings;
+3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit. The<img src="../../../../.gitbook/assets/info (1).png" alt="" data-size="original">icon informs a user that additional Limit price is available if the checkbox 'Use stop limit instead of stop' is active in General settings;&#x20;
 4. Stop limit order will be executed at a specified price (or better) after given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy (or sell) at the limit price or better;
 5. Trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. 'Buy' trailing stop orders are the mirror image of sell trailing stop orders;
 6. Care order is a type of Limit order with expanded customization and flexibility. With Care orders, an Order entry panel includes an additional "Comment" field of up to 128 characters, allowing the user to provide specific information to the broker. Please note that Care orders may include an additional commission, which will be transparently displayed in fee breakdowns and margin calculations;
 7. OCO (One-Cancels-the-Other) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
 
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
+* &#x20;Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
 
 1. A Day order, as the name implies, is valid for the current trading day;
 2. GTC (Good till cancelled) orders, on the other hand, will remain alive until they are cancelled or the contract expires;
@@ -45,10 +45,10 @@ Please note that calculated Est. Quantity value is rounded down to the nearest m
 4. FOK (Fill or kill) requires to execute the entire transaction immediately and completely or not to execute it at all;
 5. GTD (Good till date) order will be cancelled on specified date if not executed or until the contract expires;
 6. GTS (Good till session) order will be cancelled at the end of the trading session if not executed.
-7. On open (MOO) orders are executed on the market open;
+7. On open (MOO) orders are executed on the market open;&#x20;
 8. On close (MOC) orders are executed on the market close;
 
-* Overnight execution - allows user to place orders that can be executed outside of regular market hours. If enabled, the order will be eligible for overnight execution. If disabled, the order will be executed only during standard trading hours.\
+* Overnight execution - allows user to place orders that can be executed outside of regular market hours. If enabled, the order will be eligible for overnight execution. If disabled, the order will be executed only during standard trading hours. \
   Please note that this option is shown only if overnight trading is available for your account and the selected instrument. Stop Loss and Take Profit orders will automatically inherit this setting;
 * Received by - drop-down menu that determines the way the user issued a command on the order processing. The following values are available for selection in the list:
 
@@ -71,19 +71,17 @@ If the user performs actions on the position or modifies the order from one of t
 * Tr. stop offset - (for the 'Trailing stop' type) - allows entering the order trailing stop price.
 * Comment - a field where you can provide additional details or instructions for the order. Maximum length is 128 characters. Available only for Care order type.
 
-A user can set up set the Stop loss and Take profit directly from the Order entry panel if needed.
+A user can set up set the Stop loss and Take profit directly from the Order entry panel if needed.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (1750).png" alt=""><figcaption></figcaption></figure>
 
-VelocityTrader
-
-When icon is activated by clicking on it, and checkbox 'Use stop limit instead of stop' is true (a setting located in Trading defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [General settings](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings).
+When icon is activated by clicking on it, and checkbox 'Use stop limit instead of stop' is true (a setting located in Trading defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [General settings](../../getting-started/general-settings.md).&#x20;
 
 If the _Set SL/TP values in offset_ option is enabled in General settings, the SL/TP values will be displayed as offsets. The format of the offset display depends on the _Show offset in_ setting, which allows choosing between: Ticks, Ticks (fractional ticks for Forex), Points and Percents.
 
-If the _Set SL/TP values in offset_ option is disabled, SL/TP values will be displayed as absolute prices instead.
+If the _Set SL/TP values in offset_ option is disabled, SL/TP values will be displayed as absolute prices instead.&#x20;
 
-It is always possible to manage risks by setting Trailing stop on the order by clicking on a special<img src="../../../../.gitbook/assets/Tr stop 1.png" alt="" data-size="original">button located near Stop loss. The blue color of the<img src="../../../../.gitbook/assets/tr stop2.png" alt="" data-size="original">button indicates that the Trailing stop is activated.
+It is always possible to manage risks by setting Trailing stop on the order by clicking on a special<img src="../../../../.gitbook/assets/Tr stop 1.png" alt="" data-size="original">button located near Stop loss. The blue color of the<img src="../../../../.gitbook/assets/tr stop2 (1).png" alt="" data-size="original">button indicates that the Trailing stop is activated.&#x20;
 
 It's also possible to set the validity separately for SL/TP if the _Select SL/TP validity in OE_ parameter is activated in the General settings.
 
@@ -133,29 +131,29 @@ Spread initial loss = (Ask - Bid) \* Tick cost \* Qty.
 
 * P/L per Tick – displays data for Symbols:
 
-P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
 
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
 P/L per Tick - no information for Index;
 
-* Allow short positions – shows whether short positions opening is allowed for the symbol;
-* Est. available cash - displays the calculated cash balance after placing an order, calculated as:\
+* Allow short positions – shows whether short positions opening is allowed for the symbol;&#x20;
+* Est. available cash - displays the calculated cash balance after placing an order, calculated as: \
   Est. available cash _= Available Cash + OE Order Value + Order fees._\
   Note that the value can be negative and is shown in red or green depending on the balance.
 
 **Fees** part shows commission for a trade. The fees shown depend on the Commission plan settings of the User:
 
 * Fill per lot – shows the fee paid for each traded lot.
-* Total fee – shows the commission total on the trade.
-* Swap buy - specifies a swap value that is applied to overnight long positions of an instrument.
-* Swap sell - specifies a swap value that is applied to overnight short positions of an instrument.
+* Total fee – shows the commission total on the trade.&#x20;
+* Swap buy - specifies a swap value that is applied to overnight long positions of an instrument.&#x20;
+* Swap sell - specifies a swap value that is applied to overnight short positions of an instrument.&#x20;
 * Total fee – total expected commission for the trade, aggregated from all applicable components.
-* Per fill – fixed fee charged per each trade fill, regardless of volume.
+* Per fill – fixed fee charged per each trade fill, regardless of volume.&#x20;
 * Per transaction – fixed fee charged per transaction.
 * Order per lot with fixed part – fixed fee is charged for the traded volume up to a minimum threshold. If the traded quantity exceeds this volume, an additional fee is applied per each extra lot.
 
-Information of the Margin section can be updated by clicking on the button<img src="../../../../.gitbook/assets/30 (1).png" alt="" data-size="original"> at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+Information of the Margin section can be updated by clicking on the button<img src="../../../../.gitbook/assets/30 (1).png" alt="" data-size="original">at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
 A user can click and drag the border of the panel to resize it to desired width.
 

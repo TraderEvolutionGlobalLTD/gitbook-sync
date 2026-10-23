@@ -43,8 +43,7 @@ The 'Terminal' tab contains the following items:
 * Orders history;
 * Assets.
 
-
-Selecting an item opens a corresponding panel.
+Selecting an item opens a corresponding panel.
 
 The 'Tools' tab contains the following items:
 
@@ -65,10 +64,9 @@ The 'Window' tab allows making the standard manipulations with the application w
 * Tile window;
 * Bring All to Front.
 
+The 'More' tab allows performing the following:
 
-The 'More' tab allows performing the following:
-VelocityTrader
 * Search – allows to look up through the whole application for a desired element;
-* Home Page – access to TraderEvolution Global LTD website;
+* Home Page – access to VelocityTrader Global LTD website;
 * Open Data Folder – opens the folder containing application data;
 * About – allows to open About current version screen.
