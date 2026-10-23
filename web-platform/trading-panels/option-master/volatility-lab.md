@@ -36,14 +36,14 @@ The Settings panel is located to the right of the chart and allows users to cont
 
 ### Chart scaling
 
-The chart view can be manipulated with the buttons![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFc1pNCZ83B6eNZf9U%2FScreenshot_5.png?alt=media&#x26;token=f0993924-e16c-49b1-b10e-5dcae11b6a3a\), located in the buttom-right corner of the chart field:
+The chart view can be manipulated with the buttons![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFc1pNCZ83B6eNZf9U%2FScreenshot_5.png?alt=media\&token=f0993924-e16c-49b1-b10e-5dcae11b6a3a), located in the buttom-right corner of the chart field:
 
-* Pressing the button![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFc9oLylMwR8qthi4F%2FScreenshot_12.png?alt=media&#x26;token=b284cc25-f172-4a17-9b33-a5ab948c3ad7\)allows to zoom out of any random area of the chart;
-* Pressing the button![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFcFSr_mpIPuvv0wwo%2FScreenshot_7.png?alt=media&#x26;token=9b4ef291-261e-4618-b2bb-efe910482d7a\)allows to zoom in to any random area of the chart;
+* Pressing the button![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFc9oLylMwR8qthi4F%2FScreenshot_12.png?alt=media\&token=b284cc25-f172-4a17-9b33-a5ab948c3ad7)allows to zoom out of any random area of the chart;
+* Pressing the button![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFbSGpWJc3pf9RFOCA%2F-LNFcFSr_mpIPuvv0wwo%2FScreenshot_7.png?alt=media\&token=9b4ef291-261e-4618-b2bb-efe910482d7a)allows to zoom in to any random area of the chart;
 
 The chart view can be also manipulated with some additional options:
 
-* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFcWXJLxz7jrWMbnO3%2F-LNFcja56QyaAG2TN7XX%2Fdd.png?alt=media&#x26;token=85141bd1-92d6-4a39-8465-7226d7fc748b\)of any chart;
-* Clicking + holding + moving the cursor on a random area of the coordinate plane![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFcWXJLxz7jrWMbnO3%2F-LNFcuURqZsW7vYtAk-N%2FScreenshot_14.png?alt=media&#x26;token=45098088-f7d7-4a59-81ee-3cefafd21bc3\)- allows to focus the chart view on this area of the coordinate plane;
+* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFcWXJLxz7jrWMbnO3%2F-LNFcja56QyaAG2TN7XX%2Fdd.png?alt=media\&token=85141bd1-92d6-4a39-8465-7226d7fc748b)of any chart;
+* Clicking + holding + moving the cursor on a random area of the coordinate plane![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNFcWXJLxz7jrWMbnO3%2F-LNFcuURqZsW7vYtAk-N%2FScreenshot_14.png?alt=media\&token=45098088-f7d7-4a59-81ee-3cefafd21bc3)- allows to focus the chart view on this area of the coordinate plane;
 * Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right (X) or up/down (Y) on this area on the X or Y axis;
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area.

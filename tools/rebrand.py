@@ -60,7 +60,7 @@ PAGE_URL = re.compile(
 TEXT_URL_LINK = re.compile(
     r"\[\s*(?P<text>" + VENDOR_HOST + r"/[^\]\s]+)\s*\]\((?P<url>" + VENDOR_HOST + r"/[^)\s]+)\)")
 PROXY_URL = re.compile(
-    VENDOR_HOST + r"/(?:project/)?~gitbook/image\?url=(?P<url>[^&\"\s)<>]+)(?:(?:&#x26;|&amp;|&)[^\"\s)<>]*)?")
+    VENDOR_HOST + r"/(?:project/)?~gitbook/image\?url=(?P<url>[^&\\\"\s)<>]+)(?:\\?(?:&#x26;|&amp;|&)[^\"\s)<>]*)?")
 # Asset paths and external URLs are never word-replaced; anything left over is reported by --check.
 BRAND = re.compile(r"(?P<keep>\.gitbook/assets/[^)\"'<>\n]*|https?://[^\s)\"'<>\]]+)|\btraderevolution\b", re.I)
 TARGET = re.compile(r"\]\(<(?P<a>[^>\n]*)>\)|\]\((?P<b>[^)\s<>]*)\)|\b(?:href|src)=\"(?P<c>[^\"\n]*)\"")
@@ -205,7 +205,9 @@ class Generator:
 
         def proxy_url(m):
             self.stats["dead image proxy URLs repaired"] += 1
-            return urllib.parse.unquote(m["url"]).replace("&", "&#x26;")
+            # GitBook writes & as \& in a Markdown link target and as &#x26; inside an HTML attribute
+            amp = "\\&" if m.string[max(0, m.start() - 2):m.start()] == "](" else "&#x26;"
+            return urllib.parse.unquote(m["url"]).replace("&", amp)
 
         text = TEXT_URL_LINK.sub(text_link, text)
         text = PROXY_URL.sub(proxy_url, text)
@@ -357,6 +359,7 @@ def check(files, vendor_names, gen, current, changes, assets):
         ("vendor brand", re.compile(r"traderevolution|evolutiontrader", re.I)),
         ("URL prefix that 404s on the site", re.compile(r"help\.za\.velocitytrade\.com/(?:project|VelocityTrader)/")),
         ("brand glued to letters", re.compile(r"[A-Za-z]VelocityTrader|VelocityTrader[A-Za-z]")),
+        ("repaired image URL ending in a backslash", re.compile(r"https://\d+-files\.gitbook\.io/[^\s)\"<>]*\\\)")),
     ]
     for label, pattern in leaks:
         hits = sorted(p for p, t in texts.items() if pattern.search(t))
@@ -431,8 +434,9 @@ def main():
 
     report(sha, gen, changes, assets, extras)
     if args.apply:
-        if git("status", "--porcelain", "--untracked-files=no").strip() and not args.force:
-            sys.exit("refusing to --apply: tracked files have uncommitted changes (commit them or use --force)")
+        dirty = git("status", "--porcelain", "--untracked-files=no", "--", ".", ":(exclude)tools").strip()
+        if dirty and not args.force:
+            sys.exit("refusing to --apply: tracked docs have uncommitted changes (commit them or use --force)")
         apply(sha, out, changes, assets)
         print("applied. Run with --check to verify, then review `git status`.")
     else:

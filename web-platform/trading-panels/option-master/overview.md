@@ -105,7 +105,7 @@ The style of a font can be selected.
 
 **Panel navigation:** use this block in order to manage tabs of Option master panel.
 
-**Info panel:** click on the button ![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNAtqF0AI5bOZBLWnuU%2F-LNAxBiExMjEcjSx_8kL%2Finfo%20panel.png?alt=media&#x26;token=21e8850a-4f8f-475e-88f3-6f457c00ad04\) to enable/disable the information panel displaying.
+**Info panel:** click on the button ![](https://1243456536-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LNAtqF0AI5bOZBLWnuU%2F-LNAxBiExMjEcjSx_8kL%2Finfo%20panel.png?alt=media\&token=21e8850a-4f8f-475e-88f3-6f457c00ad04) to enable/disable the information panel displaying.
 
 This panel consists of a Greek logical block that shows total "greeks" value by current portfolio.
 
