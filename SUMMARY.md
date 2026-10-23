@@ -159,6 +159,7 @@
       * [Strategy list](desktop-application-for-windows/windows/strategy-manager/strategy-list-section.md)
       * [Chart section](desktop-application-for-windows/windows/strategy-manager/chart-section.md)
       * [Active positions/orders section](desktop-application-for-windows/windows/strategy-manager/active-positions-orders-section.md)
+    * [Omnibus account management](desktop-application-for-windows/windows/omnibus-account-management.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
     * [MAM system](desktop-application-for-windows/windows/mam-system/README.md)
       * [MAM basics](desktop-application-for-windows/windows/mam-system/mam-basics.md)
