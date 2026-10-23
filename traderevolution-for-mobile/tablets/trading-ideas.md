@@ -1,6 +1,6 @@
 # Trading ideas
 
-In the TE mobile application, Users (Users-subscribers) can receive and use [Trading ideas](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-ideas) or simply Ideas created by other Users (Users-analysts) in the TE Desktop application.
+In the TE mobile application, Users (Users-subscribers) can receive and use [Trading ideas](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/trading-ideas) or simply Ideas created by other Users (Users-analysts) in the TE Desktop application.
 
 {% hint style="warning" %}
 To be able to receive, view and use Ideas, a User-subscriber needs to be subscribed to a Trading system. Also, to receive Ideas and place orders based on Ideas received, the Instrument used in the idea must be available to the User.

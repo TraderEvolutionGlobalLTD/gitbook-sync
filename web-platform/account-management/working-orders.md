@@ -6,7 +6,8 @@ To open a new Working orders panel, select Terminal -> Working orders.
 
 <figure><img src="../../.gitbook/assets/image (1351).png" alt=""><figcaption></figcaption></figure>
 
-The following columns are available in the panel:
+
+The following columns are available in the panel:
 
 * Symbol – name of the instrument to be traded.
 * Side – type of the trade to be performed (Buy or Sell).
@@ -71,7 +72,7 @@ The following buttons are available:
 {% hint style="warning" %}
 Clicking these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 {% endhint %}
-
+VelocityTrader
 Double-click on the needed order evokes the Working order cancel window for a quick order cancelling. User can disable order cancellation on double-click in the [General settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings) panel.
 
 ### **Context menu**

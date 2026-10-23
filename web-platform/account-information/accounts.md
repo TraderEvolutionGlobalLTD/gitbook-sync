@@ -2,7 +2,7 @@
 
 Accounts panel shows basic details about all accounts that are available for a user.
 
-To open Accounts panel, select Account -> Accounts in the header of TraderEvolution Web platform:
+To open Accounts panel, select Account -> Accounts in the header of VelocityTrader Web platform:
 
 <figure><img src="../../.gitbook/assets/image (1454).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ By clicking on the Account Link button <img src="../../.gitbook/assets/Screensho
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-Please, read more about Account linking [here](https://guide.traderevolution.com/project/web-platform/getting-started/arranging-panels).
+Please, read more about Account linking [here](https://guide.VelocityTrader.com/project/web-platform/getting-started/arranging-panels).
 
 The following information about Accounts and calculation formulas are available:
 

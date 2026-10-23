@@ -1,10 +1,12 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button<img src="../../../.gitbook/assets/1 — копия (4).png" alt="" data-size="line">is located at the top right corner of the Chart. Also it is accessible from the main menu of the platform or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
+The Order entry screen enables user to send orders. The Order entry button<img src="../../../.gitbook/assets/1 — копия (4).png" alt="" data-size="line">
+is located at the top right corner of the Chart. Also it is accessible from the main menu of the platform or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
 
 &#x20;                                            <img src="../../../.gitbook/assets/Screen Shot 2020-06-05 at 5.57.11 PM (10).png" alt="" data-size="original">                 &#x20;
 
-In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
+
+In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,12 +51,12 @@ Validity – allows specifying order validity by selecting among the following t
 
 4\. FOK (Fill or kill) – requires to execute the entire transaction immediately and completely or not to execute it at all.
 
-5\. GTD (Good till date) allows input date until which the order will be cancelled if not executed.
+5\. GTD (Good till date) allows input date until which the order will be cancelled if not executed.VelocityTraderVelocityTrader
 
 * Overnight execution - if active, the order will be eligible to be placed during overnight market hours. More details can be found [here](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/overnight-trading).
 * SL/TP price – allows to set Stop loss and Take profit prices.
 
-<figure><img src="../../../.gitbook/assets/image (375).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (375).png" alt="" width="302"><figcaption></figcaption></figure>VelocityTraderVelocityTrader
 
 This field can also be displayed as 'SL limit offset', depending on the configuration in [Settings](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/settings).&#x20;
 

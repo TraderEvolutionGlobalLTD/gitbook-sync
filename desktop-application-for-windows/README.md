@@ -1,2 +1,2 @@
-# TraderEvolution for Desktop
+# VelocityTrader for Desktop
 

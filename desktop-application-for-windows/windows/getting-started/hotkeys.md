@@ -1,6 +1,7 @@
 # Hotkeys
 
-Hotkey is a key or a combination of keys providing quick access to a particular function. The same functionality can be activated using the mouse by selecting the functionality in a menu, but using the equivalent hotkey is much faster. The description below is given within the bounds of each panel.
+
+Hotkey is a key or a combination of keys providing quick access to a particular function. The same functionality can be activated using the mouse by selecting the functionality in a menu, but using the equivalent hotkey is much faster. The description below is given within the bounds of each panel.
 
 ![](<../../../.gitbook/assets/new1 (23).jpg>)
 
@@ -243,5 +244,5 @@ View order history – allows viewing order history.
 To change the value of a hotkey, click on its current value.
 
 Find information about Scalper hotkeys here:&#x20;
-
+VelocityTraderVelocityTrader
 [https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper](https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper)_._

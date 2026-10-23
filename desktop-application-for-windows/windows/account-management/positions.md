@@ -1,6 +1,7 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
+
+Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
 
 To open Positions panel, select Terminal -> Positions:
 
@@ -14,7 +15,7 @@ The following columns are available in the panel:
 
 {% hint style="warning" %}
 Please note that in this case the User cannot modify/close such position or place SL/TP orders).
-
+VelocityTrader
 Also note that users can disable position closing on double-click in the [General Settings](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings) panel.
 {% endhint %}
 
@@ -29,7 +30,8 @@ Also note that users can disable position closing on double-click in the [Genera
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* Cross price \* (Current price - Open price)
+
+For Long position: Gross P/L = Qty. \* Lot size \* Cross price \* (Current price - Open price)
 
 For Short position: Gross P/L = Qty. \* Lot size \* Cross price \* (Open price - Current price)
 

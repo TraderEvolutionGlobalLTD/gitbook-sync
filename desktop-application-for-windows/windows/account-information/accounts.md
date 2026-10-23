@@ -1,20 +1,23 @@
 # Accounts
 
-Accounts panel shows basic details about all accounts that are available for a user.
+
+Accounts panel shows basic details about all accounts that are available for a user.
 
 To open Accounts panel, select Account -> Accounts at the header of the terminal:
 
 ![](<../../../.gitbook/assets/windows desk waived (1).png>)
 
-The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance\&Projected balance section at the header of the platform:                    &#x20;
+
+The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance\&Projected balance section at the header of the platform:                    &#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfRR0PZXmsLcEhnI9dApVYZIRkEavkeHOUXI_9QO2KuzfPmeHZo3859UFjSdExKKrQcQXeN6o3JK1KA23GTxiD5kI2OBQTxK8m0CgdhHKNDUC5C8jgoo9loUPNKh9OW5QgM2LEO_P8GF8jAN-IL5lFaHdf5?key=i34kSG4duM_DXcQbimGXZQ" alt=""><figcaption></figcaption></figure>
 
-By clicking on the Account Link button<img src="../../../.gitbook/assets/Screenshot_8 (2).png" alt="" data-size="original">, located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here:&#x20;
+By clicking on the Account LVelocityTradersrc="../../../.gitbook/assets/Screenshot_8 (2).png" alt="" data-size="original">, located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here:&#x20;
 
 {% embed url="https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels" %}
 
-Also note that if you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance.&#x20;
+
+Also note that if you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance.&#x20;
 
 The following information about Accounts and calculation formulas are available:
 

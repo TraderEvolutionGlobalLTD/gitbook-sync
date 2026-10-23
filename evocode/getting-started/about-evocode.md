@@ -1,6 +1,6 @@
 # About EvoCode
 
-EvoCode is a programming environment for algorithmic trading. It is an integral part of TraderEvolution.
+EvoCode is a programming environment for algorithmic trading. It is an integral part of VelocityTrader.
 
 Main features of EvoCode:
 

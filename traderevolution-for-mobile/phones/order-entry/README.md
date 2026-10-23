@@ -4,7 +4,8 @@ The Order entry screen enables users to send orders. The Order entry button <img
 
 <figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
-In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.&#x20;
+
+In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1694).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -33,19 +34,21 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 5. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 6. OCO order is a combined order, where the execution of one automatically cancels the other, allowing to define both a profit-taking target and a protection against loss within a single order. OCO is available only when Stop/Stop Limit and Limit orders are allowed for the selected account and symbol. If Cash mode is selected, the order submission is disabled. By default, the Limit price uses the current Ask for Buy or the current Bid for Sell (otherwise the minimum tick), while the Stop price follows standard Stop price logic.
 
-**Validity:**
 
-Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
+**Validity:**
+
+
+Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
 
 1. Day order, as the name implies, is valid for the current trading day.
 2. GTC (Good till cancelled) orders, on the other hand, will remain alive until they are cancelled.
 3. IOC (Immediate or Cancel Order) requires that all or part of the order be executed immediately after it has been brought to the market.
-4. FOK (Fill or kill) – requires to execute the entire transaction immediately and completely or not to execute it at all.
+4. FOK (Fill or kill) – requires to execute the entire transaction immediately and completely or not to execute it at all.VelocityTraderVelocityTrader
 5. GTD (Good till date) allows input date until which the order will be cancelled if not executed.
 
 * Overnight execution - if active, the order will be eligible to be placed during overnight market hours. More details can be found [here](https://guide.traderevolution.com/project/traderevolution-for-mobile/phones/overnight-trading).
 * SL/TP price – allows to set Stop loss and Take profit prices.
-
+VelocityTraderVelocityTrader
 <figure><img src="../../../.gitbook/assets/image (1751).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the checkbox near SL price is true, and the checkbox 'Use stop limit instead of stop' is also true (a setting located in Defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [Settings](https://guide.traderevolution.com/project/traderevolution-for-mobile/phones/settings).&#x20;

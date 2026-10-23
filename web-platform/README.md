@@ -1,2 +1,2 @@
-# TraderEvolution for Web
+# VelocityTrader for Web
 

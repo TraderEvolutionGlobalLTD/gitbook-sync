@@ -6,7 +6,7 @@ Overnight trading allows user to place and execute orders outside of regular mar
 
 **1) Enable overnight trading by default**
 
-You can manage your overnight trading preference in **Settings →** [**Defaults**](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/settings). Turn on **“Overnight execution by default”** if you want all new orders to be eligible for overnight execution automatically:
+You can manage your overnight trading preference in **Settings →** [**Defaults**](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/settings). Turn on **“Overnight execution by default”** if you want all new orders to be eligible for overnight execution automatically:
 
 <figure><img src="../../.gitbook/assets/image (1580).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,13 +18,13 @@ This setting is visible only if at least one of your accounts supports overnight
 
 **2) Order Entry panel**
 
-In the[ **Order Entry**](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/order-entry) window, you will see the **Overnight execution** switch (if available for the selected account and instrument):
+In the[ **Order Entry**](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/order-entry) window, you will see the **Overnight execution** switch (if available for the selected account and instrument):
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 Enable it if you want your order to be executed during overnight hours. Stop Loss and Take Profit orders will automatically inherit this setting. If the switch is not shown, overnight trading is not supported for the current instrument or account.
 
-Orders placed with enabled _Overnight execution_ option will be marked with the following icon in the [Working orders](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/orders) panel:
+Orders placed with enabled _Overnight execution_ option will be marked with the following icon in the [Working orders](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/orders) panel:
 
 <figure><img src="../../.gitbook/assets/image (1582).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ When placing orders directly from the chart, you will see additional _Overnight_
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-When opening order from the Chart using the Visual trading feature, the following icon will be displayed on the order - <img src="https://guide.traderevolution.com/project/~gitbook/image?url=https%3A%2F%2F1243456536-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LMCqxhh2XAdWPUjcvxR%252Fuploads%252FdLh7b4KnJvRlmZK6rvfY%252Fimage.png%3Falt%3Dmedia%26token%3Da6a64d7c-be72-4888-8f44-60622fafe158&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=24579422&#x26;sv=2" alt="" data-size="line">.
+When opening order from the Chart using the Visual trading feature, the following icon will be displayed on the order - <img src="https://guide.VelocityTrader.com/project/~gitbook/image?url=https%3A%2F%2F1243456536-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LMCqxhh2XAdWPUjcvxR%252Fuploads%252FdLh7b4KnJvRlmZK6rvfY%252Fimage.png%3Falt%3Dmedia%26token%3Da6a64d7c-be72-4888-8f44-60622fafe158&#x26;width=42&#x26;dpr=4&#x26;quality=100&#x26;sign=24579422&#x26;sv=2" alt="" data-size="line">.
 
 Tooltips will show whether the order will be executed during or outside regular trading hours.
 
@@ -42,9 +42,9 @@ Tooltips will show whether the order will be executed during or outside regular 
 
 Note that same options are also available when:
 
-* Creating [Alerts](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/alerts);
-* Placing orders via [Market depth](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/market-depth);
-* Modifying [Positions](https://guide.traderevolution.com/project/traderevolution-for-mobile/tablets/positions).
+* Creating [Alerts](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/alerts);
+* Placing orders via [Market depth](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/market-depth);
+* Modifying [Positions](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/tablets/positions).
 
 **5) Confirmation screens and event log**
 

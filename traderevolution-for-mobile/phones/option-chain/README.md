@@ -50,7 +50,7 @@ Tap Ask or Bid button on the Option chain screen to select the strike (Leg). It 
 
 <figure><img src="../../../.gitbook/assets/image (1520).png" alt="" width="375"><figcaption></figcaption></figure>
 
-At the bottom of the screen there is a panel <img src="../../../.gitbook/assets/image (1521).png" alt="" data-size="line"> that gives the opportunity to select different option strategies. Learn more about each available strategy in the following [Option strategies](https://guide.traderevolution.com/traderevolution/traderevolution-for-mobile/phones/option-chain/option-strategies) article.
+At the bottom of the screen there is a panel <img src="../../../.gitbook/assets/image (1521).png" alt="" data-size="line"> that gives the opportunity to select different option strategies. Learn more about each available strategy in the following [Option strategies](https://guide.VelocityTrader.com/VelocityTrader/VelocityTrader-for-mobile/phones/option-chain/option-strategies) article.
 
 Also there is a information about the number of selected strikes:&#x20;
 

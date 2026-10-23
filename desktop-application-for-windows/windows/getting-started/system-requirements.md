@@ -1,6 +1,7 @@
 # System requirements
 
-TraderEvolution platform does not have minimum requirements to run. Though please be advised that the following parameters are recommended:
+VelocityTrader
+TraderEvolution platform does not have minimum requirements to run. Though please be advised that the following parameters are recommended:
 
 ### **Single account trading**
 

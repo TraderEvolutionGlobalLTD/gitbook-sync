@@ -19,4 +19,4 @@ To open Order entry screen, tap the Order entry button <img src="../../.gitbook/
 
 Read more about the Order entry screen here:
 
-[https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry)
+[https://guide.VelocityTrader.com/project/mobile-applications/phone/android/order-entry](https://guide.VelocityTrader.com/project/mobile-applications/phone/android/order-entry)

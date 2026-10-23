@@ -1,6 +1,7 @@
 # Working orders
 
-Working orders panel lists all created orders which are visible for user.
+
+Working orders panel lists all created orders which are visible for user.
 
 To open a new Working orders panel, select Terminal -> Working orders.
 
@@ -46,7 +47,7 @@ The following columns are available in the panel:
 
 {% hint style="warning" %}
 Users can select which columns to display in the Working orders panel in the panel context menu (Settings->Columns).
-
+VelocityTrader
 Also note that users can disable order cancellation on double-click in the [General Settings](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings) panel.
 {% endhint %}
 

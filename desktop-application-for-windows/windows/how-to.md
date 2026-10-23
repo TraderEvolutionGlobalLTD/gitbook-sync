@@ -4,7 +4,7 @@
 
 Reset your password following the recommendations from the ‘Changing password’ section:&#x20;
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
+[https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
 
 #### **2. How to find the Order ID / Position ID?**
 
@@ -29,7 +29,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ![](../../.gitbook/assets/OCO.jpg)
 
-* You can also place an OCO order using Visual trading directly on the chart, find more detailed description in the [Visual trading](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-panels/visual-trading) article.
+* You can also place an OCO order using Visual trading directly on the chart, find more detailed description in the [Visual trading](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/trading-panels/visual-trading) article.
 
 {% hint style="warning" %}
 The ability to place OCO orders must be activated in the User's details -> General trading rules section of BackOffice.
@@ -46,7 +46,7 @@ The ability to place Trailing stops must be activated in the User's details -> G
 {% endhint %}
 
 * To replace a Stop loss by Trailing stop in the Order entry panel, simply click on a special<img src="../../.gitbook/assets/Tr stop 1 (1).png" alt="" data-size="original">button loacted near Stop loss. The blue color of the<img src="../../.gitbook/assets/tr stop2.png" alt="" data-size="original">button indicates that the Trailing stop is activated;&#x20;
-* You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way. More detailed description in the [Visual trading](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-panels/visual-trading) article.
+* You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way. More detailed description in the [Visual trading](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/trading-panels/visual-trading) article.
 
 #### **6. How to add a price alert?**
 
@@ -75,11 +75,11 @@ The ability to place Trailing stops must be activated in the User's details -> G
 * You can enable VWAP on a Chart, Market depth, Scalper, Matrix and Order Entry panels;
 * Read more about VWAP here:&#x20;
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
+[https://guide.VelocityTrader.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.VelocityTrader.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
 
 #### **10. How to find a volume by price?**
 
-In TraderEvolution there are few options to view the volume by price:
+In VelocityTrader there are few options to view the volume by price:
 
 * The Market depth panel allows to view the volume per each price level;
 * Info Window in the Chart panel contains the volume value;
@@ -97,8 +97,8 @@ In TraderEvolution there are few options to view the volume by price:
 
 You have two options here:
 
-* Open the Grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
-* Open several Chart panels: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
+* Open the Grid panel: [https://guide.VelocityTrader.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.VelocityTrader.com/project/desktop-application-for-windows/analysis-tools/grid)
+* Open several Chart panels: [https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/arranging-panels)
 
 #### **13. How to color brokerages in the Market depth?**
 
@@ -155,7 +155,7 @@ Overnight trading allows you to place and execute orders outside of regular mark
 
 **1) Enable overnight trading by default**
 
-You can manage your overnight trading preference in **Settings →** [**Trading defaults**](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings).\
+You can manage your overnight trading preference in **Settings →** [**Trading defaults**](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/getting-started/general-settings).\
 Turn on **“Overnight execution by default”** if you want all new orders to be eligible for overnight execution automatically:
 
 <figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
@@ -167,7 +167,7 @@ If this option is disabled, orders will be placed only during regular market hou
 
 **2) Order Entry panel**
 
-In the[ **Order Entry**](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-panels/order-entry) window, you will see the **Overnight execution** switch (if available for the selected account and instrument):
+In the[ **Order Entry**](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/trading-panels/order-entry) window, you will see the **Overnight execution** switch (if available for the selected account and instrument):
 
 \
 Enable it if you want your order to be executed during overnight hours. Stop Loss and Take Profit orders will automatically inherit this setting.\
@@ -186,7 +186,7 @@ Tooltips will show whether the order will be executed during or outside regular 
 
 **4) Market Depth and Alerts**
 
-In the [**Market Depth**](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-panels/market-depth) panel, you can also find the **Overnight execution** switch when available:
+In the [**Market Depth**](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/trading-panels/market-depth) panel, you can also find the **Overnight execution** switch when available:
 
 <figure><img src="../../.gitbook/assets/image (1347).png" alt="" width="452"><figcaption></figcaption></figure>
 

@@ -11,7 +11,7 @@ The Orders screen allows to view three lists of orders:
 Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 {% hint style="warning" %}
-Note that <img src="../../.gitbook/assets/image (1578).png" alt="" data-size="line"> icon means that order is eligible to be executed during overnight market hours. Read about overnight trading in more details [here](https://guide.traderevolution.com/project/traderevolution-for-mobile/phones/overnight-trading).
+Note that <img src="../../.gitbook/assets/image (1578).png" alt="" data-size="line"> icon means that order is eligible to be executed during overnight market hours. Read about overnight trading in more details [here](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
 {% endhint %}
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.
@@ -77,7 +77,8 @@ In order to modify active order, tap the ‘Modify’ button and the following s
 
 <figure><img src="../../.gitbook/assets/image (208).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
+
+Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
 {% hint style="warning" %}
 If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.

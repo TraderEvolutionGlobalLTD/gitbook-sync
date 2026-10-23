@@ -74,7 +74,9 @@ In order to add a new indicator, choose the category <img src="../../.gitbook/as
 
 <figure><img src="../../.gitbook/assets/image (1478).png" alt="" width="375"><figcaption></figcaption></figure>
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button <img src="../../.gitbook/assets/image (715).png" alt="" data-size="line">.&#x20;Tap the button <img src="../../.gitbook/assets/image (716).png" alt="" data-size="line"> located near indicator’s name to remove indicator from this section.
+
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button <img src="../../.gitbook/assets/image (715).png" alt="" data-size="line">.&#x20;
+Tap the button <img src="../../.gitbook/assets/image (716).png" alt="" data-size="line"> located near indicator’s name to remove indicator from this section.
 
 <figure><img src="../../.gitbook/assets/image (1479).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -88,7 +90,7 @@ The Order entry screen enables user to send orders. The Order entry icon <img sr
 
 <figure><img src="../../.gitbook/assets/Simulator_Screenshot_iPhone_16_Plus_2026_06_08_at_22_21_37.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Read more information about Order entry screen here:
+Read more inforVelocityTraderder entry screen here:VelocityTrader
 
 [https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry)
 

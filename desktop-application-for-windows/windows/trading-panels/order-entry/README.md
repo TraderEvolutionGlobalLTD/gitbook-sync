@@ -4,7 +4,8 @@ Order entry panel allows to place market or pending orders. To open the Order en
 
 <figure><img src="../../../../.gitbook/assets/image (1749).png" alt=""><figcaption></figcaption></figure>
 
-This panel contains the following settings:
+
+This panel contains the following settings:
 
 * Account - the account used for an order creation;
 * PoA - the list, which allows selecting among Power of attorney persons that can trade on behalf of the the account owner;
@@ -71,9 +72,10 @@ If the user performs actions on the position or modifies the order from one of t
 * Tr. stop offset - (for the 'Trailing stop' type) - allows entering the order trailing stop price.
 * Comment - a field where you can provide additional details or instructions for the order. Maximum length is 128 characters. Available only for Care order type.
 
-A user can set up set the Stop loss and Take profit directly from the Order entry panel if needed.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1750).png" alt=""><figcaption></figcaption></figure>
+A user can set up set the Stop loss and Take profit directly from the Order entry panel if needed.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (1750).png" alt=""><figcaption></figcaption></figure>VelocityTrader
 
 When icon is activated by clicking on it, and checkbox 'Use stop limit instead of stop' is true (a setting located in Trading defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. This field can also be displayed as 'SL limit offset', depending on the configuration in [General settings](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/general-settings).&#x20;
 
@@ -131,7 +133,8 @@ Spread initial loss = (Ask - Bid) \* Tick cost \* Qty.
 
 * P/L per Tick – displays data for Symbols:
 
-P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+
+P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
 
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
@@ -153,7 +156,8 @@ P/L per Tick - no information for Index;
 * Per transaction – fixed fee charged per transaction.
 * Order per lot with fixed part – fixed fee is charged for the traded volume up to a minimum threshold. If the traded quantity exceeds this volume, an additional fee is applied per each extra lot.
 
-Information of the Margin section can be updated by clicking on the button<img src="../../../../.gitbook/assets/30 (1).png" alt="" data-size="original">at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+Information of the Margin section can be updated by clicking on the button<img src="../../../../.gitbook/assets/30 (1).png" alt="" data-size="original">
+at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
 A user can click and drag the border of the panel to resize it to desired width.
 

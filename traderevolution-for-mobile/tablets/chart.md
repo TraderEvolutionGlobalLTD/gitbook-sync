@@ -4,7 +4,8 @@ The Chart is the most important tool for active trading and market analyzing. Th
 
 <figure><img src="../../.gitbook/assets/Simulator_Screenshot_iPad_Air_11_inch_M2_2026_06_08_at_22_35_52.png" alt=""><figcaption></figcaption></figure>
 
-Also note that it’s possible to select preferred aggregation times. To select favorite, simply tap the star icon next to any aggregation type to mark it as a favorite. Please note that it’s possible to select no more than two favorites.
+
+Also note that it’s possible to select preferred aggregation times. To select favorite, simply tap the star icon next to any aggregation type to mark it as a favorite. Please note that it’s possible to select no more than two favorites.
 
 Note that tapping anywhere on the chart displays a crosshair showing the Open, High, Low, Close, and Volume (or Tick) values for the selected date:
 
@@ -16,7 +17,8 @@ Tap the button <img src="../../.gitbook/assets/image (115).png" alt="" data-size
 
 <figure><img src="../../.gitbook/assets/Simulator_Screenshot_iPad_Air_11_inch_M2_2026_06_08_at_22_37_44.png" alt=""><figcaption></figcaption></figure>
 
-The Chart toolbar consists of 3 items:
+
+The Chart toolbar consists of 3 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Heikin Ashi, Area;
 * Chart templates – allows to create a chart template;
@@ -55,7 +57,8 @@ In order to add a new indicator, choose the category of indicators (Channels, Mo
 
 <figure><img src="../../.gitbook/assets/Simulator_Screenshot_iPad_Air_11_inch_M2_2026_06_08_at_22_39_51.png" alt=""><figcaption></figcaption></figure>
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button <img src="../../.gitbook/assets/image (121).png" alt="" data-size="line">. Tap the button <img src="../../.gitbook/assets/image (120).png" alt="" data-size="line"> located near indicator’s name to remove indicator from this section.&#x20;
+
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button <img src="../../.gitbook/assets/image (121).png" alt="" data-size="line">. Tap the button <img src="../../.gitbook/assets/image (120).png" alt="" data-size="line"> located near indicator’s name to remove indicator from this section.&#x20;
 
 Open the chart to see the added indicators.
 
@@ -63,11 +66,12 @@ Open the chart to see the added indicators.
 
 ### &#xD;&#xD;**Order entry**
 
-The Order entry screen enables user to send orders. The Order entry icon<img src="../../.gitbook/assets/1 — копия (8).png" alt="" data-size="line">is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon<img src="../../.gitbook/assets/1 — копия (8).png" alt="" data-size="line">
+is located at the top right corner of the Chart screen.
 
 <figure><img src="../../.gitbook/assets/Simulator_Screenshot_iPad_Air_11_inch_M2_2026_06_08_at_22_40_33.png" alt=""><figcaption></figcaption></figure>
 
-Orders are displayed on the chart with the quantity value inside of the order marker, the color of order marker for Buy orders is blue, for Sell orders – red.
+Orders are dispVelocityTraderart with the quantity value inside of the order marker, the color of orderVelocityTrader orders is blue, for Sell orders – red.
 
 Read more information about Order entry screen here:
 

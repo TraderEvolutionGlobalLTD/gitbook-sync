@@ -27,7 +27,7 @@ In "Defaults" settings section you can adjust the following:
 * Buy SL trigger price - allows selecting price type for Buy Stop loss order trigger;
 * Sell SL trigger price - allows selecting price type for Sell Stop loss order trigger;
 * Select SL/TP trigger price in OE - if active, user will have a possibility to select SL/TP trigger price in Order entry panel;
-* Overnight execution by default - if active, all new orders will be eligible for overnight execution automatically. Read more [here](https://guide.traderevolution.com/project/traderevolution-for-mobile/phones/overnight-trading).
+* Overnight execution by default - if active, all new orders will be eligible for overnight execution automatically. Read more [here](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
 
 #### Confirmations
 
@@ -84,7 +84,7 @@ To deactivate Biometric authentication, uncheck the corresponding setting and th
 
 #### Push notifications
 
-TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Upon receiving a push notification, the user can tap on it and thus open the application. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
+VelocityTrader app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Upon receiving a push notification, the user can tap on it and thus open the application. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
 
 #### Alerts
 

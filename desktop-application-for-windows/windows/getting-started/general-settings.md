@@ -1,6 +1,6 @@
 # General settings
 
-The General Settings menu is used to customize and change general properties of TraderEvolution App. To open it, click on the ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeXzY2DBylixw6cLmS0aJ-Z1PFbLPOi4JJkh4_jumwy_EsJEzXjZFFi2ieNbRYe2kjm1qJAHWFAcjyw4GKPlR5ARjMy3hH2YpI57McMX8v34JU1-uA3tCl1K1t-EhnAvC96TI8yU-ds2OWUZG0dHSt9o8b0?key=i34kSG4duM_DXcQbimGXZQ) button at the bottom of the sidebar of the App.
+The General Settings menu is used to customize and change general properties of VelocityTrader App. To open it, click on the ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeXzY2DBylixw6cLmS0aJ-Z1PFbLPOi4JJkh4_jumwy_EsJEzXjZFFi2ieNbRYe2kjm1qJAHWFAcjyw4GKPlR5ARjMy3hH2YpI57McMX8v34JU1-uA3tCl1K1t-EhnAvC96TI8yU-ds2OWUZG0dHSt9o8b0?key=i34kSG4duM_DXcQbimGXZQ) button at the bottom of the sidebar of the App.
 
 ### **General**
 
@@ -9,8 +9,8 @@ The General Settings menu is used to customize and change general properties of 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - check to display a comprehensive info bar over your Workspaces;
 * Enable sounds - check to allow sound notifications;
-* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/positions) panel;&#x20;
-* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
+* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/account-management/positions) panel;&#x20;
+* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.VelocityTrader.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
 * Synchronize cursor - synchs cursor among charts;
 * Mouse wheel - select the action to be performed when scrolling the mouse wheel, it's either scrolling or zooming in and out.
 
@@ -75,7 +75,8 @@ If 'Show offset in = Ticks (fractional ticks for Forex)', then options 'SL/TP de
 
 ![](../../../.gitbook/assets/Windows.jpg)
 
-In Confirmations section all of the options are fairly intuitive:
+
+In Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
@@ -104,7 +105,8 @@ If 'Show offset in = Ticks (fractional ticks for Forex)', then options 'SL/TP de
 
 ![](../../../.gitbook/assets/10f.png)
 
-If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
+
+If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
 
 The overnight warning message shows the following items: Account (Account for which the margin coefficients are switched to overnight), Margin available, Maintenance margin (based on overnight coefficients), Overnight margin available.
 
@@ -116,7 +118,8 @@ If Overnight margin available < 0, user will get a message "You don’t have eno
 
 ### RSS
 
-Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.\
+
+Using this settVelocityTraderhe user can add or edit RSS feeds in order to view news through RSS panel.\VelocityTrader
 Read more about RSS panel here:&#x20;
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._

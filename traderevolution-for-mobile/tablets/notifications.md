@@ -28,6 +28,6 @@ Opening the message card will proceed the User to the main text field, where the
 
 The user can subscribe/unsubscribe to the required notification categories in two ways. Please note that the subscription method is selected by the admin in the BackOffice.&#x20;
 
-The first way to subscribe is a standard Subscriptions panel, you can find more about how it works in the [appropriate article](https://guide.traderevolution.com/traderevolution/mobile-applications/phone/tablets/products). If this method is selected then notification categories will appear as standard subscription cards in this tab. The user should only select the category of interest to him and subscribe to it by clicking the appropriate button.&#x20;
+The first way to subscribe is a standard Subscriptions panel, you can find more about how it works in the [appropriate article](https://guide.VelocityTrader.com/VelocityTrader/mobile-applications/phone/tablets/products). If this method is selected then notification categories will appear as standard subscription cards in this tab. The user should only select the category of interest to him and subscribe to it by clicking the appropriate button.&#x20;
 
 The second way to subscribe to notification categories is through General settings. In case when admin selects this method, the corresponding tab will appear in the General settings section. The user should simply check the boxes of categories of interest to him and the subscription will be made, the user will receive all notifications from this category.&#x20;

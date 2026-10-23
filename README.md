@@ -1,2 +1,2 @@
-# TraderEvolution Guide
+# VelocityTrader Guide
 
