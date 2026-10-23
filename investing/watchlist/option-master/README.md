@@ -41,7 +41,7 @@ Tap Ask or Bid button on the Option chain screen to select the strike (Leg). It 
 
 <figure><img src="../../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
-At the bottom of the screen there is a panel ![](<../../../.gitbook/assets/image (1121).png>) that gives the opportunity to select different option strategies. Learn more about each available strategy in the following [Option strategies](https://guide.velocitytrader.com/VelocityTrader/investing/watchlist/option-master) article.
+At the bottom of the screen there is a panel ![](<../../../.gitbook/assets/image (1121).png>) that gives the opportunity to select different option strategies. Learn more about each available strategy in the following [Option strategies](https://help.za.velocitytrade.com/VelocityTrader/investing/watchlist/option-master) article.
 
 Also there is a information about the number of selected strikes:
 

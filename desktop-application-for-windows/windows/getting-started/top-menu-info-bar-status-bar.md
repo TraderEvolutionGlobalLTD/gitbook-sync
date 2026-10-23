@@ -24,7 +24,7 @@
 * Notifications: access to the Notifications panel;
 * Videos: access to the Videos panel;
 * Help: redirects user to VelocityTrader Guide;
-* Settings: access to general settings of the terminal. Read more about this section here:[ https://guide.VelocityTrader.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.velocitytrader.com/project/desktop-application-for-windows/getting-started/general-settings)
+* Settings: access to general settings of the terminal. Read more about this section here:[ https://help.za.velocitytrade.com/project/desktop-application-for-windows/getting-started/general-settings](https://help.za.velocitytrade.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in/out: evokes login screen or logs user out.
 
 ### **Info bar**

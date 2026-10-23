@@ -46,7 +46,7 @@ In case the message was not shown as a pop-up in the terminal (can be configured
 
 The user can subscribe/unsubscribe to the required notification categories in two ways. Please note that the subscription method is selected by the admin in the BackOffice.
 
-The first way to subscribe is a standard Subscriptions panel, you can find more about how it works in the [appropriate article](https://guide.velocitytrader.com/VelocityTrader/desktop-application-for-windows/windows/account-management/products). If this method is selected then notification categories will appear as standard subscription cards in this tab. The user should only select the category of interest to him and subscribe to it by clicking the appropriate button.
+The first way to subscribe is a standard Subscriptions panel, you can find more about how it works in the [appropriate article](https://help.za.velocitytrade.com/VelocityTrader/desktop-application-for-windows/windows/account-management/products). If this method is selected then notification categories will appear as standard subscription cards in this tab. The user should only select the category of interest to him and subscribe to it by clicking the appropriate button.
 
 The second way to subscribe to notification categories is through General settings. In case when admin selects this method, the corresponding tab will appear in the General settings section:
 

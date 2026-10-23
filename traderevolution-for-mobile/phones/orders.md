@@ -11,7 +11,7 @@ The Orders screen allows to view three lists of orders:
 Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 {% hint style="warning" %}
-Note that <img src="../../.gitbook/assets/image (1578).png" alt="" data-size="line"> icon means that order is eligible to be executed during overnight market hours. Read about overnight trading in more details [here](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
+Note that <img src="../../.gitbook/assets/image (1578).png" alt="" data-size="line"> icon means that order is eligible to be executed during overnight market hours. Read about overnight trading in more details [here](https://help.za.velocitytrade.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
 {% endhint %}
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.

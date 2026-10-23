@@ -9,8 +9,8 @@ The General Settings menu is used to customize and change general properties of 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - check to display a comprehensive info bar over your Workspaces;
 * Enable sounds - check to allow sound notifications;
-* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://guide.velocitytrader.com/project/desktop-application-for-windows/windows/account-management/positions) panel;
-* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://guide.velocitytrader.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
+* Allow positions closing by double-clicking - if checked, allows closing positions by double-clicking them in the [Positions](https://help.za.velocitytrade.com/project/desktop-application-for-windows/windows/account-management/positions) panel;
+* Allow orders cancellation by double-clicking - if checked, allows cancelling orders by double-clicking them in the [Working Orders](https://help.za.velocitytrade.com/project/desktop-application-for-windows/windows/account-management/working-orders) panel;
 * Synchronize cursor - synchs cursor among charts;
 * Mouse wheel - select the action to be performed when scrolling the mouse wheel, it's either scrolling or zooming in and out.
 

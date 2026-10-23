@@ -14,7 +14,7 @@ By clicking on the Account Link button <img src="../../.gitbook/assets/Screensho
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-Please, read more about Account linking [here](https://guide.velocitytrader.com/project/web-platform/getting-started/arranging-panels).
+Please, read more about Account linking [here](https://help.za.velocitytrade.com/project/web-platform/getting-started/arranging-panels).
 
 The following information about Accounts and calculation formulas are available:
 

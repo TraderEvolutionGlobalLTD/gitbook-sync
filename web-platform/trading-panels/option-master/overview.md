@@ -105,7 +105,7 @@ The style of a font can be selected.
 
 **Panel navigation:** use this block in order to manage tabs of Option master panel.
 
-**Info panel:** click on the button ![](https://guide.VelocityTrader.com/~gitbook/image?url=https%3A%2F%2F1243456536-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LMCqxhh2XAdWPUjcvxR%252F-LNAtqF0AI5bOZBLWnuU%252F-LNAxBiExMjEcjSx_8kL%252Finfo%2520panel.png%3Falt%3Dmedia%26token%3D21e8850a-4f8f-475e-88f3-6f457c00ad04\&width=300\&dpr=4\&quality=100\&sign=27205e98\&sv=1) to enable/disable the information panel displaying.
+**Info panel:** click on the button ![](https://help.za.velocitytrade.com/~gitbook/image?url=https%3A%2F%2F1243456536-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LMCqxhh2XAdWPUjcvxR%252F-LNAtqF0AI5bOZBLWnuU%252F-LNAxBiExMjEcjSx_8kL%252Finfo%2520panel.png%3Falt%3Dmedia%26token%3D21e8850a-4f8f-475e-88f3-6f457c00ad04\&width=300\&dpr=4\&quality=100\&sign=27205e98\&sv=1) to enable/disable the information panel displaying.
 
 This panel consists of a Greek logical block that shows total "greeks" value by current portfolio.
 

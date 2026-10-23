@@ -16,7 +16,7 @@ The following parameters are available when opening an order:&#x20;
 * Leverage - representing the multiple by which the user's position size exceeds their actual capital. Available only if it is allowed by broker;
 * SL/TP price - this setting allows a user to select a price for local SL/TP trigger;
 * Trailing SL – enables the order trailing stop;
-* Overnight execution - this icon <img src="../../../.gitbook/assets/image (1573).png" alt="" data-size="line"> means that order is eligible to be executed during overnight market hours. Read more [here](https://guide.VelocityTrader.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
+* Overnight execution - this icon <img src="../../../.gitbook/assets/image (1573).png" alt="" data-size="line"> means that order is eligible to be executed during overnight market hours. Read more [here](https://help.za.velocitytrade.com/project/VelocityTrader-for-mobile/phones/overnight-trading).
 
 After pressing <img src="https://lh7-us.googleusercontent.com/8Kkiq3BgOFnLFmA97BM7oTZT_IKeMyybUzl3GNF4MYCYy-r92zB5K_UJI9c0tpFdIVdhDYSyQ99LWxVE1h62r_sPq8sUhn3GKM7O6wG5xju5lKBPlfhhJqn9fyGJJxZc8v3Yka-_E-xJnTd5EPNbbxQ" alt="" data-size="line"> button the confirmation window will appear:&#x20;
 
